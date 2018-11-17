@@ -1,0 +1,74 @@
+        <profile version="589824" 
+             storageformat="1" 
+             name="WMV-HD-1024x768" 
+             description="PapaJohn&apos;s Simulated high definition 768p"> 
+                   <streamconfig majortype="{73647561-0000-0010-8000-00AA00389B71}" 
+                   streamnumber="1" 
+                   streamname="Audio Stream" 
+                   inputname="Audio409" 
+                   bitrate="320032" 
+                   bufferwindow="5000" 
+                   reliabletransport="0" 
+                   decodercomplexity="" 
+                   rfc1766langid="en-us" > 
+             <wmmediatype subtype="{00000161-0000-0010-8000-00AA00389B71}"  
+                   bfixedsizesamples="1" 
+                   btemporalcompression="0" 
+                   lsamplesize="7431"> 
+           <waveformatex wFormatTag="353" 
+                         nChannels="2" 
+                         nSamplesPerSec="44100" 
+                         nAvgBytesPerSec="40004" 
+                         nBlockAlign="7431" 
+                         wBitsPerSample="16" 
+                         codecdata="008800000F0039E80000"/> 
+            </wmmediatype>
+            </streamconfig>
+                   <streamconfig majortype="{73646976-0000-0010-8000-00AA00389B71}" 
+                   streamnumber="2" 
+                   streamname="Video Stream" 
+                   inputname="Video409" 
+                   bitrate="6000000" 
+                   bufferwindow="5000" 
+                   reliabletransport="0" 
+                   decodercomplexity="CP" 
+                   rfc1766langid="en-us" 
+ > 
+                     <videomediaprops maxkeyframespacing="60000000" 
+                                     quality="80"/> 
+             <wmmediatype subtype="{33564D57-0000-0010-8000-00AA00389B71}"  
+                   bfixedsizesamples="0" 
+                   btemporalcompression="1" 
+                   lsamplesize="0"> 
+       <videoinfoheader dwbitrate="6000000" 
+                        dwbiterrorrate="0" 
+                        avgtimeperframe="416666"> 
+        <rcsource left="0" 
+                  top="0" 
+                  right="1024" 
+                  bottom="768"/> 
+        <rctarget left="0" 
+                  top="0" 
+                  right="1024" 
+                  bottom="768"/> 
+            <bitmapinfoheader biwidth="1024" 
+                              biheight="768" 
+                              biplanes="1" 
+                              bibitcount="24" 
+                              bicompression="WMV3" 
+                              bisizeimage="0" 
+                              bixpelspermeter="0" 
+                              biypelspermeter="0" 
+                              biclrused="0" 
+                              biclrimportant="0"/> 
+       </videoinfoheader>
+            </wmmediatype>
+      <dataunitextension extensionsystemid="{1B1EE554-F9EA-4BC8-821A-376B74E4C4B8}"  
+                         extensiondatasize="2" 
+                         extensionsysteminfo=""/> 
+            </streamconfig>
+     <streamprioritization>
+      <stream number="1" mandatory="0"/>
+      <stream number="2" mandatory="0"/>
+     </streamprioritization>
+    </profile> 

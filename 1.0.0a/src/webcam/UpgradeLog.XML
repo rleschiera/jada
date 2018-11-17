@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WebCam_Capture">
+</Property><Property Name="File di soluzione" Value="C:\engassist\src\webcam\WebCam_Capture.sln">
+</Property><Property Name="File di opzioni utente" Value="C:\engassist\src\webcam\WebCam_Capture.suo">
+</Property><Property Name="Date" Value="martedì 10 marzo 2015">
+</Property><Property Name="Time" Value="22.49">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WebCam_Capture.sln" Description="File salvato come C:\engassist\src\webcam\Backup\WebCam_Capture.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WebCam_Capture.suo" Description="File salvato come C:\engassist\src\webcam\Backup\WebCam_Capture.suo">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="WebCam_Capture.csproj" Description="Backup del file di progetto creato con nome C:\engassist\src\webcam\Backup\WebCam_Capture.csproj">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="WebCam_Capture.csproj.user" Description="Backup del file utente di progetto creato con nome C:\engassist\src\webcam\Backup\WebCam_Capture.csproj.user">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="AssemblyInfo.cs" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="WebCamCapture.cs" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\WebCamCapture.cs">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="WebcamEventArgs.cs" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\WebcamEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="CAMERA.ICO" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\CAMERA.ICO">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="WebCamCapture.resx" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\WebCamCapture.resx">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="WebCam_Capture.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="WebCam_Capture" Source="WebCam_Capture.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\Webcam_Test.csproj" Description="Backup del file di progetto creato con nome C:\engassist\src\webcam\Backup\Webcam_Test\Webcam_Test.csproj">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\Webcam_Test.csproj.user" Description="Backup del file utente di progetto creato con nome C:\engassist\src\webcam\Backup\Webcam_Test\Webcam_Test.csproj.user">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\AssemblyInfo.cs" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\Webcam_Test\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\Form1.cs" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\Webcam_Test\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\App.ico" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\Webcam_Test\App.ico">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\Form1.resx" Description="Backup del file creato con nome C:\engassist\src\webcam\Backup\Webcam_Test\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\Webcam_Test.csproj" Description="Conversione progetto riuscita">
+</Event><Event ErrorLevel="3" Project="Webcam_Test" Source="Webcam_Test\Webcam_Test.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WebCam_Capture.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="WebCam_Capture.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WebCam_Capture" Source="WebCam_Capture.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event><Event ErrorLevel="0" Project="Webcam_Test" Source="Webcam_Test\Webcam_Test.csproj" Description="Analisi completata. Non è richiesto alcun aggiornamento per i file di progetto.">
+</Event></UpgradeLog>

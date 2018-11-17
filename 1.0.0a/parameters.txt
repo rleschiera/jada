@@ -1,0 +1,33 @@
+AGENT/MANAGER:
+
+SESSION
+-----------------------------------------------------------------
+    "sessione",     "utente",           1, 
+    "sessione",     "username",         1, 
+    "sessione",     "password",         1,
+    "sessione",     "telefono",         1,
+    "sessione",     "mail",             1,
+    "sessione",     "regione",          1,
+    "sessione",     "cliente",          1,
+    "sessione",     "area",             1,
+    "postazione",   "host",             0,
+    "postazione",   "IP",               0,
+    "postazione",   "tipo OS",          0,
+    "postazione",   "computer",         0,
+    "postazione",   "domain user",      0,
+    "postazione",   "BIOS",             0,
+    "postazione",   "CPU",              0,
+    "postazione",   "RAM",              0,
+    "postazione",   "versione OS",      0,
+    "postazione",   "schermo",          0,
+
+REQUEST
+-----------------------------------------------------------------
+    "richiesta",    "area",         1, 
+    "richiesta",    "descrizione",  1, 
+    "richiesta",    "partner",      0, 
+    "richiesta",    "password",     0, 
+    "sessione",     "telefono",     0,
+    "sessione",     "mail",         0,
+    "sessione",     "regione",      0,
+    "sessione",     "cliente",      0,

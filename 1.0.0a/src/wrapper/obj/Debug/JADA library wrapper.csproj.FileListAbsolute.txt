@@ -1,0 +1,8 @@
+C:\jada-dev\1.0.0a\src\wrapper\bin\Debug\jadawrapper.dll
+C:\jada-dev\1.0.0a\src\wrapper\bin\Debug\jadawrapper.pdb
+C:\jada-dev\1.0.0a\src\wrapper\obj\Debug\JADA.FormProxyLogin.resources
+C:\jada-dev\1.0.0a\src\wrapper\obj\Debug\JADA.FormShowVersion.resources
+C:\jada-dev\1.0.0a\src\wrapper\obj\Debug\JADA library wrapper.csproj.GenerateResource.Cache
+C:\jada-dev\1.0.0a\src\wrapper\obj\Debug\jadawrapper.dll
+C:\jada-dev\1.0.0a\src\wrapper\obj\Debug\jadawrapper.pdb
+C:\jada-dev\1.0.0a\src\wrapper\obj\Debug\JADA library wrapper.csprojResolveAssemblyReference.cache

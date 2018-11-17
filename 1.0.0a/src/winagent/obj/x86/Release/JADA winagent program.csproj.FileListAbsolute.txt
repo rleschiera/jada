@@ -1,0 +1,15 @@
+C:\jada-dev\1.0.0a\src\winagent\bin\Release\wa.exe.config
+C:\jada-dev\1.0.0a\src\winagent\bin\Release\wa.exe
+C:\jada-dev\1.0.0a\src\winagent\bin\Release\wa.pdb
+C:\jada-dev\1.0.0a\src\winagent\bin\Release\jadawrapper.dll
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\JADA winagent program.csprojResolveAssemblyReference.cache
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\winagent.AgtFormAcceptDesktop.resources
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\winagent.AgtFormDraw.resources
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\winagent.AgtFormMain.resources
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\winagent.AgtFormLogin.resources
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\winagent.Properties.Resources.resources
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\JADA winagent program.csproj.GenerateResource.Cache
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\wa.exe
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\wa.pdb
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\winagent.AgtFormConnectSupport.resources
+C:\jada-dev\1.0.0a\src\winagent\obj\x86\Release\winagent.AgtFormOpenSupport.resources

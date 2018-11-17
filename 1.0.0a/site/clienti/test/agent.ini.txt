@@ -1,0 +1,32 @@
+[debug]
+memory=0
+
+[call]
+delay=2
+abortafter=50
+
+[connessione]
+nome=Gigi Cliente
+telefono=012345678
+mail=gigi.cliente@gmail.com
+regione=San Marino
+cliente=ISS
+cellulare=33899009992
+audio=1
+
+[richiesta]
+coda=HR
+descrizione=Ho sufficienti informazioni base per poter proseguire...
+id=-1
+
+[chat]
+messaggio=
+
+[proxy]
+use=0
+host=
+port=
+user=raleschu
+password=upkkGckbFFW6t5+hEdR64g==
+;host=10.10.56.115
+;port=8080

@@ -1,0 +1,15 @@
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\JADA winmanager program.csprojResolveAssemblyReference.cache
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\winmanager.MgrFormMain.resources
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\winmanager.MgrFormLogin.resources
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\winmanager.MgrFormParameters.resources
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\winmanager.Properties.Resources.resources
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\JADA winmanager program.csproj.GenerateResource.Cache
+C:\jada-dev\1.0.0a\src\winmanager\bin\Release\wm.exe.config
+C:\jada-dev\1.0.0a\src\winmanager\bin\Release\wm.exe
+C:\jada-dev\1.0.0a\src\winmanager\bin\Release\wm.pdb
+C:\jada-dev\1.0.0a\src\winmanager\bin\Release\jadawrapper.dll
+C:\jada-dev\1.0.0a\src\winmanager\bin\Release\WebCamCapture.dll
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\wm.exe
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\wm.pdb
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\winmanager.MgrFormLoadSupport.resources
+C:\jada-dev\1.0.0a\src\winmanager\obj\x86\Release\winmanager.MgrFormAcceptSupport.resources

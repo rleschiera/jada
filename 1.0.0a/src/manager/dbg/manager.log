@@ -1,0 +1,32 @@
+﻿Compilazione avviata 19/01/2017 10:12:34.
+     1>Progetto "C:\jada\src\manager\manager.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di ".\dbg\JADA manager program.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\jada\include /ZI /nologo /W3 /WX- /Od /Oy- /D _USE_32BIT_TIME_T /D _CONSOLE /D _DEBUG /D WIN32_ /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\dbg/" /Fd".\dbg/vc100.pdb" /FR".\dbg\\" /Gd /TC /analyze- /errorReport:prompt callback.c main.c thread.c
+         thread.c
+         main.c
+         callback.c
+         Generazione del codice in corso...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"dbg/jadamanager.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\jada\bin jada.lib pthreadVC.lib wsock32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\dbg\jadamanager.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\dbg/jadamanager.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\dbg\jadamanager.lib" /MACHINE:X86 .\dbg/callback.obj
+         .\dbg/main.obj
+         .\dbg/thread.obj
+     1>callback.obj : warning LNK4075: '/EDITANDCONTINUE' ignorato a causa della specifica di '/INCREMENTAL:NO'
+         manager.vcxproj -> C:\jada\src\manager\.\dbg\jadamanager.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"dbg/jadamanager.exe;#1" /manifest .\dbg\jadamanager.exe.intermediate.manifest
+       BscMake:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\dbg/manager.bsc" .\dbg\callback.sbr .\dbg\main.sbr .\dbg\thread.sbr
+       PostBuildEvent:
+         copy dbg\jadamanager.exe C:\jada\bin
+         :VCEnd
+                 1 file copiati.
+       FinalizeBuildStatus:
+         Eliminazione del file ".\dbg\JADA manager program.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di ".\dbg\JADA manager program.lastbuildstate".
+     1>Compilazione progetto "C:\jada\src\manager\manager.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:06.69

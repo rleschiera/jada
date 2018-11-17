@@ -1,0 +1,5 @@
+C:\jada-dev\1.0.0a\src\webcam\bin\Release\WebCamCapture.dll
+C:\jada-dev\1.0.0a\src\webcam\obj\Release\WebCamCapture.WebCamCapture.resources
+C:\jada-dev\1.0.0a\src\webcam\obj\Release\WebCamCapture.csproj.GenerateResource.Cache
+C:\jada-dev\1.0.0a\src\webcam\obj\Release\WebCamCapture.dll
+C:\jada-dev\1.0.0a\src\webcam\obj\Release\WebCamCapture.csprojResolveAssemblyReference.cache

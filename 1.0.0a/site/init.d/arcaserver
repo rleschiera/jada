@@ -1,0 +1,109 @@
+#!/bin/bash
+# init file for jadaserver
+#
+# chkconfig: - 85 15
+# description: AREAS Customer Assistant server Daemon
+#
+# processname: /home/jada/jada/bin/jadaserver
+# config: /home/jada/jada/config/server.ini
+# config: /home/jada/jada/config/settings.ini
+# pidfile: /var/run/jadaserver.pid
+
+### BEGIN INIT INFO
+# Provides: jadaserver
+# Required-Start: $local_fs $network
+# Required-Stop: $local_fs $network
+# Should-Start: 
+# Should-Stop: 
+# Default-Start: 
+# Default-Stop: 
+# Short-Description: start and stop JADA server daemon
+# Description: AREAS Customer Assistant server Daemon
+### END INIT INFO
+
+# source function library
+. /etc/init.d/functions
+
+RETVAL=0
+prog="jadaserver"
+binary=/home/jada/jada/bin/jadaserver
+pidfile=/var/run/jadaserver.pid
+
+start() {
+        [ -x $binary ] || exit 5
+        echo -n $"Starting $prog: "
+        if [ $UID -ne 0 ]; then
+                RETVAL=1
+                failure
+        else
+                $binary -daemon -pid $pidfile
+                RETVAL=$?
+                [ $RETVAL -eq 0 ] && touch /var/lock/subsys/jadaserver
+        fi;
+        echo 
+        return $RETVAL
+}
+
+stop() {
+        echo -n $"Stopping $prog: "
+        if [ $UID -ne 0 ]; then
+                RETVAL=1
+                failure
+        else
+                killproc -p $pidfile $binary
+                RETVAL=$?
+                [ $RETVAL -eq 0 ] && rm -f /var/lock/subsys/jadaserver
+        fi;
+        echo
+        return $RETVAL
+}
+
+reload(){
+        echo -n $"Reloading $prog: "
+        killproc -p $pidfile $binary -HUP
+        RETVAL=$?
+        echo
+        return $RETVAL
+}
+
+restart(){
+	stop
+	start
+}
+
+condrestart(){
+    [ -e /var/lock/subsys/jadaserver ] && restart
+    return 0
+}
+
+case "$1" in
+  start)
+	start
+	RETVAL=$?
+	;;
+  stop)
+	stop
+	RETVAL=$?
+	;;
+  restart)
+	restart
+	RETVAL=$?
+        ;;
+  reload|force-reload)
+	reload
+	RETVAL=$?
+        ;;
+  condrestart|try-restart)
+	condrestart
+	RETVAL=$?
+	;;
+  status)
+        status jadaserver
+	RETVAL=$?
+        ;;
+  *)
+	echo $"Usage: $0 {start|stop|status|restart|condrestart|reload|force-reload}"
+	RETVAL=2
+esac
+
+exit $RETVAL

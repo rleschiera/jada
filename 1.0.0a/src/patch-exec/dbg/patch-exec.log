@@ -1,0 +1,26 @@
+﻿Compilazione avviata 21/01/2017 11:16:07.
+     1>Progetto "C:\jada\src\patch-exec\patch-exec.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di ".\dbg\JADA patch-starter program.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         Tutti gli output sono aggiornati.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"dbg/patch-starter.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\jada\bin jada.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\dbg\patch-starter.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\dbg/patch-starter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\dbg\patch-starter.lib" /MACHINE:X86 .\dbg/main.obj
+     1>main.obj : warning LNK4075: '/EDITANDCONTINUE' ignorato a causa della specifica di '/INCREMENTAL:NO'
+         patch-exec.vcxproj -> C:\jada\src\patch-exec\.\dbg\patch-starter.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"dbg/patch-starter.exe;#1" /manifest ".\dbg\patch-starter.exe.intermediate.manifest"
+       BscMake:
+         Tutti gli output sono aggiornati.
+       PostBuildEvent:
+         copy dbg\patch-starter.exe C:\jada\bin
+         :VCEnd
+                 1 file copiati.
+       FinalizeBuildStatus:
+         Eliminazione del file ".\dbg\JADA patch-starter program.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di ".\dbg\JADA patch-starter program.lastbuildstate".
+     1>Compilazione progetto "C:\jada\src\patch-exec\patch-exec.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:00.48

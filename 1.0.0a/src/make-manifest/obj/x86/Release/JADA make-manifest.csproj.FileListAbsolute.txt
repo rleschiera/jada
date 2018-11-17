@@ -1,0 +1,6 @@
+C:\jada-dev\1.0.0a\src\make-manifest\bin\Release\make-manifest.exe.config
+C:\jada-dev\1.0.0a\src\make-manifest\bin\Release\make-manifest.exe
+C:\jada-dev\1.0.0a\src\make-manifest\bin\Release\make-manifest.pdb
+C:\jada-dev\1.0.0a\src\make-manifest\obj\x86\Release\JADA make-manifest.csprojResolveAssemblyReference.cache
+C:\jada-dev\1.0.0a\src\make-manifest\obj\x86\Release\make-manifest.exe
+C:\jada-dev\1.0.0a\src\make-manifest\obj\x86\Release\make-manifest.pdb

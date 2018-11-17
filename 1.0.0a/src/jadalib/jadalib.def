@@ -1,0 +1,12 @@
+EXPORTS
+;   *** default symbols ***
+    DllMain PRIVATE
+    DllRegisterServer PRIVATE
+    DllUnregisterServer PRIVATE
+
+;   *** functions ***
+	JADA_MnuExit
+	JADA_MnuNext
+	JADA_MnuBack
+	JADA_WaitKey
+	JADA_StartMenu

@@ -1,0 +1,49 @@
+﻿Compilazione avviata 22/01/2017 17:36:31.
+     1>Progetto "C:\jada\src\server\server.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di ".\dbg\JADA server program.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\jada\include /IC:\jada\include\oss /IC:\jada\include\mysql /Zi /nologo /W3 /WX- /Od /Oy- /D SERVER /D _USE_32BIT_TIME_T /D _CONSOLE /D _DEBUG /D WIN32_ /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\dbg/" /Fd".\dbg/vc100.pdb" /FR".\dbg\\" /Gd /TC /analyze- /errorReport:prompt "..\server-common\database.c"
+         database.c
+         Tutti gli output sono aggiornati.
+       CoreResGen:
+         Nessuna risorsa obsoleta rispetto ai relativi file di origine. La generazione delle risorse verrà ignorata.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"dbg/jadaserver.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\jada\bin zlib.lib pthreadVC.lib wsock32.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:.\dbg\jadaserver.server.resources /MANIFEST /ManifestFile:".\dbg\jadaserver.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\dbg/jadaserver.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\dbg\jadaserver.lib" /MACHINE:X86 .\dbg/common.obj
+         .\dbg/communication.obj
+         .\dbg/list.obj
+         .\dbg/message.obj
+         .\dbg/callback.obj
+         .\dbg/database.obj
+         .\dbg/handler.obj
+         .\dbg/log.obj
+         .\dbg/main.obj
+         .\dbg/objects.obj
+         .\dbg/tcp.obj
+         .\dbg/thread.obj
+         ".\dbg/ftp-handler.obj"
+         ".\dbg/ftp-log.obj"
+         ".\dbg/media-handler.obj"
+         ".\dbg/media-log.obj"
+         ".\dbg/supp-handler.obj"
+         ".\dbg/vnc-handler.obj"
+         ".\dbg/vnc-log.obj"
+         .\dbg/server.obj
+            Creazione della libreria .\dbg\jadaserver.lib e dell'oggetto .\dbg\jadaserver.exp in corso...
+         server.vcxproj -> C:\jada\src\server\.\dbg\jadaserver.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"dbg/jadaserver.exe;#1" /manifest .\dbg\jadaserver.exe.intermediate.manifest
+       BscMake:
+         Tutti gli output sono aggiornati.
+       PostBuildEvent:
+         copy dbg\jadaserver.exe C:\jada\bin
+         :VCEnd
+                 1 file copiati.
+       FinalizeBuildStatus:
+         Eliminazione del file ".\dbg\JADA server program.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di ".\dbg\JADA server program.lastbuildstate".
+     1>Compilazione progetto "C:\jada\src\server\server.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:01.35

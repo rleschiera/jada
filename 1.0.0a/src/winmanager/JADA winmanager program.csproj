@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6C954C00-8FF2-4AF2-A2BA-2D1E55F8BEA2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>winmanager</RootNamespace>
+    <AssemblyName>wm</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>
+    </StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>winmanager.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="jadawrapper">
+      <HintPath>..\..\bin\jadawrapper.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="curve.cs" />
+    <Compile Include="MgrFormParameters.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MgrFormParameters.designer.cs">
+      <DependentUpon>MgrFormParameters.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MgrFormLoadSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MgrFormLoadSupport.Designer.cs">
+      <DependentUpon>MgrFormLoadSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MgrFormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MgrFormMain.Designer.cs">
+      <DependentUpon>MgrFormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MgrFormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MgrFormLogin.Designer.cs">
+      <DependentUpon>MgrFormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MgrFormAcceptSupport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MgrFormAcceptSupport.Designer.cs">
+      <DependentUpon>MgrFormAcceptSupport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="MgrProgram.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="MgrFormLoadSupport.resx">
+      <DependentUpon>MgrFormLoadSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MgrFormMain.resx">
+      <DependentUpon>MgrFormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MgrFormLogin.resx">
+      <DependentUpon>MgrFormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MgrFormAcceptSupport.resx">
+      <DependentUpon>MgrFormAcceptSupport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MgrFormParameters.resx">
+      <DependentUpon>MgrFormParameters.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\logo.png" />
+    <Content Include="Resources\winmanager.ico" />
+    <Content Include="winmanager.ico" />
+    <None Include="Resources\call-reset.png" />
+    <None Include="Resources\refresh.gif" />
+    <None Include="Resources\call-off.png" />
+    <None Include="Resources\call-on.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\webcam\WebCamCapture.csproj">
+      <Project>{782C366A-DD3B-4ED3-8A21-71A1F03947ED}</Project>
+      <Name>WebCamCapture</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) c:\jada\bin</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

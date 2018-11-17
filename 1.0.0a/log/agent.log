@@ -1,0 +1,646 @@
+*************************************************
+06/01/2017 17:22:59: Processo agent attivato su RALESCHUW1
+06/01/2017 17:22:59: Aggiornato parametro: postazione:tipo OS * Windows
+06/01/2017 17:22:59: Aggiornato parametro: postazione:IP * 192.168.93.128
+06/01/2017 17:23:01: Aggiornato parametro: connessione:nome * Gigi Cliente
+06/01/2017 17:23:01: Aggiornato parametro: connessione:telefono * 012345678
+06/01/2017 17:23:01: Aggiornato parametro: connessione:cellulare * 33899009992
+06/01/2017 17:23:01: Aggiornato parametro: connessione:mail * gigi.cliente@gmail.com
+06/01/2017 17:23:01: Aggiornato parametro: connessione:regione * San Marino
+06/01/2017 17:23:01: Aggiornato parametro: connessione:cliente * ISS
+06/01/2017 17:23:01: Aggiornato parametro: connessione:audio * 1
+06/01/2017 17:23:01: Aggiornato parametro: postazione:computer * RALESCHUW1
+06/01/2017 17:23:01: Aggiornato parametro: postazione:domain user * Leschiera
+06/01/2017 17:23:01: Aggiornato parametro: postazione:BIOS * INTEL  - 6040000
+06/01/2017 17:23:01: Aggiornato parametro: postazione:CPU * Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:23:01: Aggiornato parametro: postazione:RAM * 2047 MB
+06/01/2017 17:23:01: Aggiornato parametro: postazione:versione OS * Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:23:01: Aggiornato parametro: postazione:schermo * {Width=1366, Height=768}
+06/01/2017 17:23:04: Processo terminato
+*************************************************
+06/01/2017 17:24:05: Processo agent attivato su RALESCHUW1
+06/01/2017 17:24:05: Aggiornato parametro: postazione:tipo OS * Windows
+06/01/2017 17:24:05: Aggiornato parametro: postazione:IP * 192.168.93.128
+06/01/2017 17:24:07: Aggiornato parametro: connessione:nome * Gigi Cliente
+06/01/2017 17:24:07: Aggiornato parametro: connessione:telefono * 012345678
+06/01/2017 17:24:07: Aggiornato parametro: connessione:cellulare * 33899009992
+06/01/2017 17:24:07: Aggiornato parametro: connessione:mail * gigi.cliente@gmail.com
+06/01/2017 17:24:07: Aggiornato parametro: connessione:regione * San Marino
+06/01/2017 17:24:07: Aggiornato parametro: connessione:cliente * ISS
+06/01/2017 17:24:07: Aggiornato parametro: connessione:audio * 1
+06/01/2017 17:24:07: Aggiornato parametro: postazione:computer * RALESCHUW1
+06/01/2017 17:24:07: Aggiornato parametro: postazione:domain user * Leschiera
+06/01/2017 17:24:07: Aggiornato parametro: postazione:BIOS * INTEL  - 6040000
+06/01/2017 17:24:07: Aggiornato parametro: postazione:CPU * Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:24:07: Aggiornato parametro: postazione:RAM * 2047 MB
+06/01/2017 17:24:07: Aggiornato parametro: postazione:versione OS * Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:24:07: Aggiornato parametro: postazione:schermo * {Width=1366, Height=768}
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:coda * AMC
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:descrizione * Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:cliente * ISS
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:telefono * 012345678
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:cellulare * 33899009992
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:mail * gigi.cliente@gmail.com
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:audio * 1
+06/01/2017 17:24:14: Aggiornato parametro: richiesta:password * EE5B0E48C8FE97716D
+06/01/2017 17:24:50: Processo terminato
+*************************************************
+06/01/2017 17:24:54: Processo agent attivato su RALESCHUW1
+06/01/2017 17:24:54: Aggiornato parametro: postazione:tipo OS * Windows
+06/01/2017 17:24:54: Aggiornato parametro: postazione:IP * 192.168.93.128
+06/01/2017 17:24:57: Aggiornato parametro: connessione:nome * Gigi Cliente
+06/01/2017 17:24:57: Aggiornato parametro: connessione:telefono * 012345678
+06/01/2017 17:24:57: Aggiornato parametro: connessione:cellulare * 33899009992
+06/01/2017 17:24:57: Aggiornato parametro: connessione:mail * gigi.cliente@gmail.com
+06/01/2017 17:24:57: Aggiornato parametro: connessione:regione * San Marino
+06/01/2017 17:24:57: Aggiornato parametro: connessione:cliente * ISS
+06/01/2017 17:24:57: Aggiornato parametro: connessione:audio * 1
+06/01/2017 17:24:57: Aggiornato parametro: postazione:computer * RALESCHUW1
+06/01/2017 17:24:57: Aggiornato parametro: postazione:domain user * Leschiera
+06/01/2017 17:24:57: Aggiornato parametro: postazione:BIOS * INTEL  - 6040000
+06/01/2017 17:24:57: Aggiornato parametro: postazione:CPU * Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:24:57: Aggiornato parametro: postazione:RAM * 2047 MB
+06/01/2017 17:24:57: Aggiornato parametro: postazione:versione OS * Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:24:57: Aggiornato parametro: postazione:schermo * {Width=1366, Height=768}
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:coda * HR
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:descrizione * Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:cliente * ISS
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:telefono * 012345678
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:cellulare * 33899009992
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:mail * gigi.cliente@gmail.com
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:audio * 1
+06/01/2017 17:25:30: Aggiornato parametro: richiesta:password * EE5B0E48C8FE97716D
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:password * EE5B0E48C8FE97716D
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:partner * Lello Leschiera
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:cliente * ISS
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:telefono * 0816103734
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:cellulare * 2233333
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:mail * raffaello.leschiera@eng.it
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:audio * 0
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:coda * HR
+06/01/2017 17:25:40: Aggiornato parametro: richiesta:descrizione * Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:36:19: Processo terminato
+*************************************************
+06/01/2017 17:36:39: Processo agent attivato su RALESCHUW1
+06/01/2017 17:36:39: Aggiornato parametro: postazione:tipo OS * Windows
+06/01/2017 17:36:39: Aggiornato parametro: postazione:IP * 192.168.93.128
+06/01/2017 17:36:41: Aggiornato parametro: connessione:nome * Gigi Cliente
+06/01/2017 17:36:41: Aggiornato parametro: connessione:telefono * 012345678
+06/01/2017 17:36:41: Aggiornato parametro: connessione:cellulare * 33899009992
+06/01/2017 17:36:41: Aggiornato parametro: connessione:mail * gigi.cliente@gmail.com
+06/01/2017 17:36:41: Aggiornato parametro: connessione:regione * San Marino
+06/01/2017 17:36:41: Aggiornato parametro: connessione:cliente * ISS
+06/01/2017 17:36:41: Aggiornato parametro: connessione:audio * 1
+06/01/2017 17:36:42: Aggiornato parametro: postazione:computer * RALESCHUW1
+06/01/2017 17:36:42: Aggiornato parametro: postazione:domain user * Leschiera
+06/01/2017 17:36:42: Aggiornato parametro: postazione:BIOS * INTEL  - 6040000
+06/01/2017 17:36:42: Aggiornato parametro: postazione:CPU * Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:36:42: Aggiornato parametro: postazione:RAM * 2047 MB
+06/01/2017 17:36:42: Aggiornato parametro: postazione:versione OS * Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:36:42: Aggiornato parametro: postazione:schermo * {Width=1366, Height=768}
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:coda * HR
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:descrizione * Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:cliente * ISS
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:telefono * 012345678
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:cellulare * 33899009992
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:mail * gigi.cliente@gmail.com
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:audio * 1
+06/01/2017 17:36:52: Aggiornato parametro: richiesta:password * EE5B0E48C8FE97716D
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:password * EE5B0E48C8FE97716D
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:partner * Lello Leschiera
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:cliente * ISS
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:telefono * 0816103734
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:cellulare * 2233333
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:mail * raffaello.leschiera@eng.it
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:audio * 0
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:coda * HR
+06/01/2017 17:36:58: Aggiornato parametro: richiesta:descrizione * Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:37:44: Processo terminato
+*************************************************
+08/01/2017 11:04:42: Processo agent attivato su RALESCHUW1
+08/01/2017 11:04:59: Processo terminato
+*************************************************
+08/01/2017 11:20:41: Processo agent attivato su RALESCHUW1
+08/01/2017 11:20:54: Processo terminato
+*************************************************
+08/01/2017 17:18:33: Processo agent attivato su RALESCHUW1
+08/01/2017 17:18:34: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+08/01/2017 17:18:34: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+08/01/2017 17:18:34: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+08/01/2017 17:18:37: Processo terminato
+*************************************************
+08/01/2017 18:27:32: Processo agent attivato su RALESCHUW1
+08/01/2017 18:27:32: ***** Evento ricevuto: JADA_EVT_CONNECTION_CONNECTED
+08/01/2017 18:27:32:       La connessione 0 e' stata connessa il 08/01/2017 18:27:32
+08/01/2017 18:27:32:       Premi Invio per fare refresh...
+08/01/2017 18:27:32: ***** Evento ricevuto: JADA_EVT_CONNECTION_OPENED
+08/01/2017 18:27:32:       La connessione 0 e' stata aperta il 08/01/2017 18:27:32
+08/01/2017 18:27:32:       Premi Invio per fare refresh...
+08/01/2017 18:28:05: Processo terminato
+08/01/2017 18:28:05: Processo terminato
+*************************************************
+08/01/2017 18:28:11: Processo agent attivato su RALESCHUW1
+08/01/2017 18:28:11: ***** Evento ricevuto: JADA_EVT_CONNECTION_CONNECTED
+08/01/2017 18:28:11:       La connessione 0 e' stata connessa il 08/01/2017 18:28:11
+08/01/2017 18:28:11:       Premi Invio per fare refresh...
+08/01/2017 18:28:11: ***** Evento ricevuto: JADA_EVT_CONNECTION_OPENED
+08/01/2017 18:28:11:       La connessione 0 e' stata aperta il 08/01/2017 18:28:11
+08/01/2017 18:28:11:       Premi Invio per fare refresh...
+08/01/2017 18:43:26: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+08/01/2017 18:43:26: c:\jada\src\jadalib\libthread.c, 430: Errore generico
+08/01/2017 18:43:30: ConnectionSenderThread e' stato chiuso.
+08/01/2017 18:43:31: ConnectionReceiverThread e' stato chiuso.
+08/01/2017 18:43:31: ***** Evento ricevuto: JADA_EVT_CONNECTION_CLOSED
+08/01/2017 18:43:31:       Evento non previsto (JADA_EVT_CONNECTION_CLOSED)
+08/01/2017 18:43:31:       Premi Invio per fare refresh...
+08/01/2017 18:43:31: Processo terminato
+08/01/2017 18:43:31: Processo terminato
+*************************************************
+08/01/2017 18:45:16: Processo agent attivato su RALESCHUW1
+08/01/2017 18:45:16: ***** Evento ricevuto: JADA_EVT_CONNECTION_CONNECTED
+08/01/2017 18:45:16:       La connessione 0 e' stata connessa il 08/01/2017 18:45:16
+08/01/2017 18:45:16:       Premi Invio per fare refresh...
+08/01/2017 18:45:16: ***** Evento ricevuto: JADA_EVT_CONNECTION_OPENED
+08/01/2017 18:45:16:       La connessione 0 e' stata aperta il 08/01/2017 18:45:16
+08/01/2017 18:45:16:       Premi Invio per fare refresh...
+08/01/2017 18:45:36: ***** Evento ricevuto: JADA_EVT_SUPPORT_OPENED
+08/01/2017 18:45:36:       La richiesta 35 e' stata aperta il 08/01/2017 18:45:36
+08/01/2017 18:45:36:       Premi Invio per fare refresh...
+08/01/2017 18:45:52: Processo terminato
+08/01/2017 18:45:52: Processo terminato
+*************************************************
+08/01/2017 19:39:59: Processo agent attivato su RALESCHUW1
+08/01/2017 19:41:51: Processo terminato
+*************************************************
+11/01/2017 21:55:16: Processo agent attivato su RALESCHUW1
+11/01/2017 21:55:17: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+11/01/2017 21:55:17: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+11/01/2017 21:55:17: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+11/01/2017 21:55:20: Processo terminato
+*************************************************
+11/01/2017 22:03:45: Processo agent attivato su RALESCHUW1
+11/01/2017 22:03:46: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+11/01/2017 22:03:46: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+11/01/2017 22:03:46: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+*************************************************
+11/01/2017 22:12:21: Processo agent attivato su RALESCHUW1
+11/01/2017 22:12:23: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+11/01/2017 22:12:23: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+11/01/2017 22:12:23: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+11/01/2017 22:12:25: Processo terminato
+*************************************************
+11/01/2017 22:12:28: Processo agent attivato su RALESCHUW1
+11/01/2017 22:12:29: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+11/01/2017 22:12:29: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+11/01/2017 22:12:29: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+11/01/2017 22:12:48: Processo terminato
+11/01/2017 22:12:54: Processo terminato
+*************************************************
+11/01/2017 22:13:19: Processo agent attivato su RALESCHUW1
+11/01/2017 22:13:22: Processo terminato
+*************************************************
+11/01/2017 22:17:46: Processo agent attivato su RALESCHUW1
+11/01/2017 22:17:49: Processo terminato
+*************************************************
+11/01/2017 22:17:51: Processo agent attivato su RALESCHUW1
+11/01/2017 22:17:53: Processo terminato
+*************************************************
+11/01/2017 22:18:14: Processo agent attivato su RALESCHUW1
+11/01/2017 22:18:17: Processo terminato
+*************************************************
+11/01/2017 22:20:25: Processo agent attivato su RALESCHUW1
+11/01/2017 22:21:29: Processo terminato
+*************************************************
+12/01/2017 00:12:38: Processo agent attivato su RALESCHUW1
+12/01/2017 00:12:39: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+12/01/2017 00:12:39: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+12/01/2017 00:12:39: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+12/01/2017 00:12:42: Processo terminato
+*************************************************
+12/01/2017 00:13:03: Processo agent attivato su RALESCHUW1
+12/01/2017 00:13:04: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+12/01/2017 00:13:04: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+12/01/2017 00:13:04: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+12/01/2017 00:13:10: Processo terminato
+*************************************************
+16/01/2017 23:38:39: Processo agent attivato su RALESCHUW1
+16/01/2017 23:38:40: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+16/01/2017 23:38:40: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+16/01/2017 23:38:40: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+16/01/2017 23:38:41: Processo terminato
+*************************************************
+17/01/2017 10:55:56: Processo agent attivato su RALESCHUW1
+17/01/2017 10:55:57: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+17/01/2017 10:55:57: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+17/01/2017 10:55:57: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+17/01/2017 10:56:03: Processo terminato
+*************************************************
+17/01/2017 10:59:42: Processo agent attivato su RALESCHUW1
+17/01/2017 10:59:43: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+17/01/2017 10:59:43: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+17/01/2017 10:59:43: c:\jada\src\jadalib\libconnection.c, 251: Errore generico
+17/01/2017 10:59:45: Processo terminato
+*************************************************
+17/01/2017 11:10:21: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 11:12:09: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 11:44:54: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 11:47:22: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 11:49:39: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 11:57:03: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 11:59:24: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 12:02:01: Processo agent attivato su RALESCHUW1
+*************************************************
+17/01/2017 12:07:18: Processo agent attivato su RALESCHUW1
+17/01/2017 12:07:19: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+17/01/2017 12:07:19: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+17/01/2017 12:07:19: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+17/01/2017 12:07:21: Processo terminato
+*************************************************
+17/01/2017 12:07:28: Processo agent attivato su RALESCHUW1
+17/01/2017 12:08:49: Ho lanciato il comando jadavncserver.exe -multi -id:0 -connect RALESCHUW1:5500 -run
+17/01/2017 12:09:26: Ho lanciato il comando jadavncserver.exe -multi -id:0 -connect RALESCHUW1:5500 -run
+17/01/2017 12:09:55: Processo terminato
+*************************************************
+17/01/2017 12:44:01: Processo agent attivato su RALESCHUW1
+17/01/2017 12:44:27: Processo terminato
+*************************************************
+18/01/2017 15:26:16: Processo agent attivato su RALESCHUW1
+18/01/2017 15:26:17: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 15:26:17: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 15:26:17: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 15:26:19: Processo terminato
+*************************************************
+18/01/2017 15:36:39: Processo agent attivato su RALESCHUW1
+18/01/2017 15:36:40: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 15:36:40: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 15:36:40: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 15:36:41: Processo terminato
+*************************************************
+18/01/2017 15:38:14: Processo agent attivato su RALESCHUW1
+18/01/2017 15:38:15: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 15:38:15: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 15:38:15: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 15:38:17: Processo terminato
+*************************************************
+18/01/2017 16:10:39: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:10:40: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:10:40: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:10:40: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:10:43: Processo terminato
+*************************************************
+18/01/2017 16:16:16: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:16:17: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:16:17: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:16:17: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:16:18: Processo terminato
+*************************************************
+18/01/2017 16:16:27: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:16:28: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:16:28: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:16:28: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:16:30: Processo terminato
+*************************************************
+18/01/2017 16:16:49: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:16:50: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:16:50: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:16:50: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:16:51: Processo terminato
+*************************************************
+18/01/2017 16:18:08: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:18:09: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:18:09: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:18:09: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:18:11: Processo terminato
+*************************************************
+18/01/2017 16:18:43: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:18:44: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:18:44: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:18:44: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+*************************************************
+18/01/2017 16:19:15: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:19:16: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:19:16: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:19:16: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:19:17: Processo terminato
+*************************************************
+18/01/2017 16:25:05: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:25:06: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:25:06: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:25:06: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:25:08: Processo terminato
+*************************************************
+18/01/2017 16:26:09: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:26:10: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:26:10: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:26:10: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:26:12: Processo terminato
+18/01/2017 16:29:36: Processo terminato
+*************************************************
+18/01/2017 16:30:15: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:30:16: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:30:16: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:30:16: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:30:18: Processo terminato
+*************************************************
+18/01/2017 16:33:34: c:\jada\src\jadalib\common.c, 370: Errore generico
+18/01/2017 16:33:35: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+18/01/2017 16:33:35: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+18/01/2017 16:33:35: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+18/01/2017 16:33:42: Processo terminato
+*************************************************
+18/01/2017 22:43:36: Processo agent attivato su RALESCHUW1
+18/01/2017 22:44:08: Ho lanciato il comando jadavncserver.exe -multi -id:0 -connect RALESCHUW1:5500 -run
+18/01/2017 22:44:23: Processo terminato
+*************************************************
+18/01/2017 22:45:45: Processo agent attivato su RALESCHUW1
+*************************************************
+18/01/2017 22:49:13: Processo agent attivato su RALESCHUW1
+18/01/2017 22:49:52: Ho lanciato il comando jadavncserver.exe -multi -id:0 -connect RALESCHUW1:5500 -run
+18/01/2017 22:51:52: Processo terminato
+*************************************************
+18/01/2017 22:52:36: Processo agent attivato su RALESCHUW1
+18/01/2017 22:53:06: Ho lanciato il comando jadavncserver.exe -multi -id:9 -connect RALESCHUW1:5500 -run
+18/01/2017 22:53:35: Ho lanciato il comando jadavncserver.exe -multi -id:9 -connect RALESCHUW1:5500 -run
+18/01/2017 22:53:44: Processo terminato
+*************************************************
+19/01/2017 10:02:20: Processo agent attivato su RALESCHUW1
+19/01/2017 10:02:20: c:\jada\src\jadalib\libconnection.c, 239: Errore nella lettura del nome del server dal file .ini
+19/01/2017 10:02:25: Processo terminato
+*************************************************
+19/01/2017 10:12:52: Processo agent attivato su RALESCHUW1
+19/01/2017 10:13:34: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 10:13:34: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+19/01/2017 10:13:36: ConnectionSenderThread e' stato chiuso.
+19/01/2017 10:13:37: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 10:13:40: Processo terminato
+*************************************************
+19/01/2017 10:19:25: Processo agent attivato su RALESCHUW1
+19/01/2017 10:19:29: Processo terminato
+*************************************************
+19/01/2017 10:19:42: Processo agent attivato su RALESCHUW1
+19/01/2017 10:20:10: Processo terminato
+*************************************************
+19/01/2017 10:20:25: Processo agent attivato su RALESCHUW1
+19/01/2017 10:20:54: Processo terminato
+*************************************************
+19/01/2017 11:13:49: Processo agent attivato su RALESCHUW1
+19/01/2017 11:14:22: Processo terminato
+*************************************************
+19/01/2017 11:16:23: Processo agent attivato su RALESCHUW1
+19/01/2017 11:17:10: Comando ricevuto non valido (116)
+19/01/2017 11:19:21: Comando ricevuto non valido (116)
+19/01/2017 11:19:36: Processo terminato
+*************************************************
+19/01/2017 11:20:06: Processo agent attivato su RALESCHUW1
+19/01/2017 11:21:30: Comando ricevuto non valido (116)
+19/01/2017 11:22:00: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 11:22:00: c:\jada\src\jadalib\libthread.c, 435: Errore generico
+19/01/2017 11:22:01: ConnectionSenderThread e' stato chiuso.
+19/01/2017 11:22:02: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 11:22:57: Processo terminato
+*************************************************
+19/01/2017 11:23:06: Processo agent attivato su RALESCHUW1
+19/01/2017 11:23:33: Comando ricevuto non valido (116)
+*************************************************
+19/01/2017 11:30:59: Processo agent attivato su RALESCHUW1
+19/01/2017 11:33:58: Processo terminato
+*************************************************
+19/01/2017 11:36:03: Processo agent attivato su RALESCHUW1
+19/01/2017 11:49:26: Processo terminato
+*************************************************
+19/01/2017 11:49:59: Processo agent attivato su RALESCHUW1
+19/01/2017 11:50:28: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 11:50:28: c:\jada\src\jadalib\libthread.c, 435: Errore generico
+19/01/2017 11:50:28: ConnectionSenderThread e' stato chiuso.
+19/01/2017 11:50:28: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 11:50:34: Processo terminato
+*************************************************
+19/01/2017 12:15:26: Processo agent attivato su RALESCHUW1
+19/01/2017 12:15:57: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 12:15:57: c:\jada\src\jadalib\libthread.c, 435: Errore generico
+19/01/2017 12:15:59: ConnectionSenderThread e' stato chiuso.
+19/01/2017 12:15:59: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 12:16:02: Processo terminato
+*************************************************
+19/01/2017 12:16:22: Processo agent attivato su RALESCHUW1
+19/01/2017 12:18:55: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 12:18:55: c:\jada\src\jadalib\libthread.c, 435: Errore generico
+19/01/2017 12:18:55: ConnectionSenderThread e' stato chiuso.
+19/01/2017 12:18:56: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 12:19:05: Processo terminato
+*************************************************
+19/01/2017 12:25:39: Processo agent attivato su RALESCHUW1
+19/01/2017 12:27:27: Processo terminato
+*************************************************
+19/01/2017 12:27:44: Processo agent attivato su RALESCHUW1
+19/01/2017 12:36:03: Processo terminato
+*************************************************
+19/01/2017 12:36:21: Processo agent attivato su RALESCHUW1
+19/01/2017 12:37:12: c:\jada\src\jadalib\message.c, 262: Payload troppo lungo per il buffer
+19/01/2017 12:37:12: c:\jada\src\jadalib\message.c, 508: Errore nella lettura del payload di sessione
+19/01/2017 12:37:12: c:\jada\src\jadalib\libhandler.c, 1090: errore nella lettura del payload
+19/01/2017 12:37:12: c:\jada\src\jadalib\libthread.c, 91: errore generico
+19/01/2017 12:37:12: Comando ricevuto di sessione non valido (105)
+19/01/2017 12:37:50: Processo terminato
+*************************************************
+19/01/2017 12:38:04: Processo agent attivato su RALESCHUW1
+19/01/2017 12:38:26: Processo terminato
+*************************************************
+19/01/2017 12:38:37: Processo agent attivato su RALESCHUW1
+19/01/2017 12:48:27: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 12:48:27: c:\jada\src\jadalib\libthread.c, 435: Errore generico
+19/01/2017 12:48:31: ConnectionSenderThread e' stato chiuso.
+19/01/2017 12:48:32: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 12:48:33: Processo terminato
+*************************************************
+19/01/2017 13:32:24: Processo agent attivato su RALESCHUW1
+19/01/2017 13:32:51: c:\jada\src\jadalib\libsess-support.c, 325: Stato non valido nella ReqSetStatus
+19/01/2017 13:32:51: c:\jada\src\jadalib\libhandler.c, 1249: errore nell'aggiornamento di stato della richiesta
+19/01/2017 13:32:51: c:\jada\src\jadalib\libthread.c, 115: errore generico
+19/01/2017 13:32:51: Comando ricevuto di sessione non valido (115)
+19/01/2017 13:35:03: c:\jada\src\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 840.
+19/01/2017 13:35:03: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 13:35:03: c:\jada\src\jadalib\libthread.c, 435: Errore generico
+19/01/2017 13:35:07: Processo terminato
+*************************************************
+19/01/2017 13:37:45: Processo agent attivato su RALESCHUW1
+*************************************************
+19/01/2017 13:39:31: Processo agent attivato su RALESCHUW1
+19/01/2017 13:41:59: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 13:41:59: c:\jada\src\jadalib\libthread.c, 435: Errore generico
+19/01/2017 13:41:59: ConnectionSenderThread e' stato chiuso.
+19/01/2017 13:42:00: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 13:42:05: Processo terminato
+*************************************************
+19/01/2017 13:43:15: Processo agent attivato su RALESCHUW1
+19/01/2017 13:45:04: Processo terminato
+*************************************************
+19/01/2017 13:45:13: Processo agent attivato su RALESCHUW1
+19/01/2017 13:45:14: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+19/01/2017 13:45:14: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+19/01/2017 13:45:14: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+19/01/2017 13:45:16: Processo terminato
+*************************************************
+19/01/2017 13:45:19: Processo agent attivato su RALESCHUW1
+19/01/2017 13:46:06: Processo terminato
+*************************************************
+19/01/2017 15:57:24: Processo agent attivato su RALESCHUW1
+19/01/2017 15:57:59: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 15:57:59: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+19/01/2017 15:57:59: ConnectionSenderThread e' stato chiuso.
+19/01/2017 15:58:00: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 15:58:04: Processo terminato
+*************************************************
+19/01/2017 17:28:22: Processo agent attivato su RALESCHUW1
+19/01/2017 17:31:49: Processo terminato
+*************************************************
+19/01/2017 17:32:38: Processo agent attivato su RALESCHUW1
+19/01/2017 17:33:04: Processo terminato
+*************************************************
+19/01/2017 17:33:54: Processo agent attivato su RALESCHUW1
+19/01/2017 17:37:35: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 17:37:35: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+19/01/2017 17:37:40: ConnectionSenderThread e' stato chiuso.
+19/01/2017 17:37:40: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 17:37:49: Processo terminato
+*************************************************
+19/01/2017 17:38:07: Processo agent attivato su RALESCHUW1
+19/01/2017 17:39:35: Processo terminato
+*************************************************
+19/01/2017 17:40:44: Processo agent attivato su RALESCHUW1
+19/01/2017 17:41:55: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 17:41:55: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+19/01/2017 17:41:59: ConnectionSenderThread e' stato chiuso.
+19/01/2017 17:41:59: ConnectionReceiverThread e' stato chiuso.
+*************************************************
+19/01/2017 17:42:25: Processo agent attivato su RALESCHUW1
+19/01/2017 17:43:32: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+19/01/2017 17:43:32: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+19/01/2017 17:43:34: c:\jada\src\jadalib\communication.c, 94: errore nella send sul socket 836
+
+19/01/2017 17:43:34: c:\jada\src\jadalib\communication.c, 236: Errore nella JADA_TcpSendMessageBlock(836, 72)
+19/01/2017 17:43:34: c:\jada\src\jadalib\libthread.c, 672: Errore generico
+19/01/2017 17:43:34: ConnectionSenderThread e' stato chiuso.
+19/01/2017 17:43:34: ConnectionReceiverThread e' stato chiuso.
+19/01/2017 17:43:37: Processo terminato
+*************************************************
+19/01/2017 17:47:16: Processo agent attivato su RALESCHUW1
+19/01/2017 17:47:26: Processo terminato
+*************************************************
+19/01/2017 17:47:28: Processo agent attivato su RALESCHUW1
+19/01/2017 17:48:11: Processo terminato
+*************************************************
+19/01/2017 18:07:45: Processo agent attivato su RALESCHUW1
+19/01/2017 18:08:06: Processo terminato
+*************************************************
+19/01/2017 18:08:08: Processo agent attivato su RALESCHUW1
+19/01/2017 18:08:35: Processo terminato
+*************************************************
+19/01/2017 18:12:27: Processo agent attivato su RALESCHUW1
+19/01/2017 18:12:36: Processo terminato
+*************************************************
+19/01/2017 18:41:10: Processo agent attivato su RALESCHUW1
+19/01/2017 18:45:52: Processo terminato
+*************************************************
+19/01/2017 18:55:33: Processo agent attivato su RALESCHUW1
+19/01/2017 18:57:54: Processo terminato
+*************************************************
+19/01/2017 19:07:15: Processo agent attivato su RALESCHUW1
+19/01/2017 19:08:08: Processo terminato
+*************************************************
+22/01/2017 16:52:42: Processo agent attivato su RALESCHUW1
+22/01/2017 16:58:24: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+22/01/2017 16:58:24: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+22/01/2017 16:58:26: ConnectionSenderThread e' stato chiuso.
+22/01/2017 16:58:27: ConnectionReceiverThread e' stato chiuso.
+*************************************************
+22/01/2017 16:59:13: Processo agent attivato su RALESCHUW1
+*************************************************
+22/01/2017 17:00:10: Processo agent attivato su RALESCHUW1
+22/01/2017 17:03:06: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+22/01/2017 17:03:06: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+22/01/2017 17:03:11: ConnectionSenderThread e' stato chiuso.
+22/01/2017 17:03:11: ConnectionReceiverThread e' stato chiuso.
+*************************************************
+22/01/2017 17:08:14: Processo agent attivato su RALESCHUW1
+22/01/2017 17:09:41: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+22/01/2017 17:09:41: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+22/01/2017 17:09:44: ConnectionSenderThread e' stato chiuso.
+22/01/2017 17:09:45: ConnectionReceiverThread e' stato chiuso.
+*************************************************
+22/01/2017 17:24:32: Processo agent attivato su RALESCHUW1
+22/01/2017 17:26:36: Ho lanciato il comando jadavncserver.exe -multi -id:4 -connect RALESCHUW1:5500 -run
+22/01/2017 17:31:06: c:\jada\src\jadalib\libtcp.c, 707: errore in fase di lettura del messaggio
+22/01/2017 17:31:06: c:\jada\src\jadalib\libthread.c, 431: Errore generico
+22/01/2017 17:31:06: ConnectionSenderThread e' stato chiuso.
+22/01/2017 17:31:07: ConnectionReceiverThread e' stato chiuso.
+22/01/2017 17:31:16: Processo terminato
+*************************************************
+22/01/2017 17:31:52: Processo agent attivato su RALESCHUW1
+22/01/2017 17:32:34: Ho lanciato il comando jadavncserver.exe -multi -id:5 -connect RALESCHUW1:5500 -run
+22/01/2017 17:34:11: Ho lanciato il comando jadavncserver.exe -multi -id:1 -connect RALESCHUW1:5500 -run
+22/01/2017 17:34:56: Processo terminato
+*************************************************
+22/01/2017 17:35:03: Processo agent attivato su RALESCHUW1
+22/01/2017 17:35:21: Ho lanciato il comando jadavncserver.exe -multi -id:3 -connect RALESCHUW1:5500 -run
+22/01/2017 17:35:38: Processo terminato
+*************************************************
+22/01/2017 19:54:23: Processo agent attivato su JADA
+22/01/2017 19:54:23: c:\jada\src\jadalib\libconnection.c, 239: Errore nella lettura del nome del server dal file .ini
+22/01/2017 19:54:24: Processo terminato
+*************************************************
+22/01/2017 19:55:01: Processo agent attivato su JADA
+22/01/2017 19:55:01: c:\jada\src\jadalib\libconnection.c, 239: Errore nella lettura del nome del server dal file .ini
+22/01/2017 19:55:04: Processo terminato
+*************************************************
+22/01/2017 19:55:43: Processo agent attivato su JADA
+22/01/2017 19:55:44: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+22/01/2017 19:55:44: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+22/01/2017 19:55:44: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+22/01/2017 19:55:46: Processo terminato
+*************************************************
+22/01/2017 19:56:23: Processo agent attivato su JADA
+22/01/2017 19:56:24: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+22/01/2017 19:56:24: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+22/01/2017 19:56:24: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+22/01/2017 19:59:01: Processo terminato
+*************************************************
+23/01/2017 12:46:42: Processo agent attivato su JADA
+23/01/2017 12:46:43: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+23/01/2017 12:46:43: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+23/01/2017 12:46:43: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+23/01/2017 12:47:27: Processo terminato
+*************************************************
+23/01/2017 12:50:13: Processo agent attivato su JADA
+23/01/2017 12:50:14: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+23/01/2017 12:50:14: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+23/01/2017 12:50:14: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+23/01/2017 12:50:26: Processo terminato
+*************************************************
+23/01/2017 12:53:03: Processo agent attivato su JADA
+23/01/2017 12:53:04: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+23/01/2017 12:53:04: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+23/01/2017 12:53:04: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+23/01/2017 12:53:07: Processo terminato
+*************************************************
+23/01/2017 12:55:32: Processo agent attivato su JADA
+23/01/2017 12:55:33: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+23/01/2017 12:55:33: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+23/01/2017 12:55:33: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+23/01/2017 12:57:44: Processo terminato
+*************************************************
+23/01/2017 13:00:14: Processo agent attivato su JADA
+23/01/2017 13:00:15: c:\jada\src\jadalib\libtcp.c, 130: Errore generico
+23/01/2017 13:00:15: c:\jada\src\jadalib\libtcp.c, 499: Errore nella connessione alla porta remota (direct)
+23/01/2017 13:00:15: c:\jada\src\jadalib\libconnection.c, 247: Errore generico
+23/01/2017 14:17:36: Processo terminato
+*************************************************
+23/01/2017 14:57:16: Processo agent attivato su JADA
+23/01/2017 15:01:03: Processo terminato

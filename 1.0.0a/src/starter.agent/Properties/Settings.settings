@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="winagent.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JADA_URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://AAA.BBB.CCC.DDD/jada/aggiornare_url_con_il_valore_specifico_della_installazione</Value>
+    </Setting>
+    <Setting Name="CUSTOMER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">EFGHIJKLMNOPQRSTUVWXYZ0123456789</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,8 @@
+C:\jada-dev\1.0.0a\src\starter.manager\bin\Release\winmanager.template.exe.config
+C:\jada-dev\1.0.0a\src\starter.manager\bin\Release\winmanager.template.exe
+C:\jada-dev\1.0.0a\src\starter.manager\bin\Release\winmanager.template.pdb
+C:\jada-dev\1.0.0a\src\starter.manager\obj\x86\Release\winmanager.Properties.Resources.resources
+C:\jada-dev\1.0.0a\src\starter.manager\obj\x86\Release\JADA winmanager starter program.csproj.GenerateResource.Cache
+C:\jada-dev\1.0.0a\src\starter.manager\obj\x86\Release\winmanager.template.exe
+C:\jada-dev\1.0.0a\src\starter.manager\obj\x86\Release\winmanager.template.pdb
+C:\jada-dev\1.0.0a\src\starter.manager\obj\x86\Release\winmanager.FormStarter.resources

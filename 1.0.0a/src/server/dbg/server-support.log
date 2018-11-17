@@ -1,0 +1,55 @@
+﻿Compilazione avviata 20/12/2016 12:44:29.
+     1>Progetto "C:\jada\src\server-support\server-support.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Creazione di ".\dbg\JADA support server program.unsuccessfulbuild". È stato specificato "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\jada\include /IC:\jada\include\oss /IC:\jada\include\mysql /ZI /nologo /W3 /WX- /Od /Oy- /D JADA_SERVER /D SERVER_SUPPORT /D _USE_32BIT_TIME_T /D _CONSOLE /D _DEBUG /D WIN32_ /D _CRT_SECURE_NO_WARNINGS /D _VC80_UPGRADE=0x0600 /D _MBCS /Gm /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\dbg/" /Fd".\dbg/vc100.pdb" /FR".\dbg\\" /Gd /TC /analyze- /errorReport:prompt ..\jadalib\common.c ..\jadalib\communication.c ..\jadalib\list.c ..\jadalib\message.c "..\server-common\database.c" "..\server-common\handler.c" "..\server-common\log.c" "..\server-common\main.c" "..\server-common\objects.c" "..\server-common\tcp.c" "..\server-common\thread.c" "supp-callback.c" "supp-handler.c" "supp-objects.c"
+         supp-objects.c
+         supp-handler.c
+         supp-callback.c
+         thread.c
+         tcp.c
+         objects.c
+         main.c
+         log.c
+         handler.c
+         database.c
+         message.c
+         list.c
+         communication.c
+         common.c
+         Generazione del codice in corso...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"dbg/server-support.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\jada\bin zlib.lib pthreadVC.lib wsock32.lib libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\dbg\server-support.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\dbg/server-support.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:".\dbg\server-support.lib" /MACHINE:X86 .\dbg/common.obj
+         .\dbg/communication.obj
+         .\dbg/list.obj
+         .\dbg/message.obj
+         .\dbg/database.obj
+         .\dbg/handler.obj
+         .\dbg/log.obj
+         .\dbg/main.obj
+         .\dbg/objects.obj
+         .\dbg/tcp.obj
+         .\dbg/thread.obj
+         ".\dbg/supp-callback.obj"
+         ".\dbg/supp-handler.obj"
+         ".\dbg/supp-objects.obj"
+     1>common.obj : warning LNK4075: '/EDITANDCONTINUE' ignorato a causa della specifica di '/INCREMENTAL:NO'
+            Creazione della libreria .\dbg\server-support.lib e dell'oggetto .\dbg\server-support.exp in corso...
+         server-support.vcxproj -> C:\jada\src\server-support\.\dbg\server-support.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"dbg/server-support.exe;#1" /manifest ".\dbg\server-support.exe.intermediate.manifest"
+       BscMake:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\bscmake.exe /nologo /o".\dbg/server-support.bsc" .\dbg\common.sbr .\dbg\communication.sbr .\dbg\list.sbr .\dbg\message.sbr .\dbg\database.sbr .\dbg\handler.sbr .\dbg\log.sbr .\dbg\main.sbr .\dbg\objects.sbr .\dbg\tcp.sbr .\dbg\thread.sbr ".\dbg\supp-callback.sbr" ".\dbg\supp-handler.sbr" ".\dbg\supp-objects.sbr"
+       PostBuildEvent:
+         copy dbg\server-support.exe C:\jada\bin
+         :VCEnd
+                 1 file copiati.
+       FinalizeBuildStatus:
+         Eliminazione del file ".\dbg\JADA support server program.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di ".\dbg\JADA support server program.lastbuildstate".
+     1>Compilazione progetto "C:\jada\src\server-support\server-support.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:12.04

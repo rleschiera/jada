@@ -1,0 +1,6 @@
+[server]
+ip=jada.iss.local
+port=10000
+
+[settings]
+agreement="http://jada.iss.local/jada/agreement.html"

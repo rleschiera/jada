@@ -1,0 +1,6 @@
+[server]
+ip=ec2-50-112-71-242.us-west-2.compute.amazonaws.com
+port=10000
+
+[settings]
+agreement="http://ec2-50-112-71-242.us-west-2.compute.amazonaws.com/jada/agreement.html"

@@ -1,0 +1,1572 @@
+*************************************************
+06/01/2017 17:22:57: Processo server attivato su RALESCHUW1
+06/01/2017 17:22:59: Nuova connessione entrante ricevuta.
+06/01/2017 17:22:59: Nuova connessione 0 aperta da 192.168.93.128
+06/01/2017 17:22:59: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:23:02: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:username = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:password = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:nome = Gigi Cliente
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:telefono = 012345678
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:cellulare = 33899009992
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:mail = gigi.cliente@gmail.com
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:regione = San Marino
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:cliente = ISS
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:coda = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: connessione:audio = 1
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:coda = AMC
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:partner = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:cliente = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:telefono = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:cellulare = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:mail = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:audio = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: richiesta:password = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:host = 
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:IP = 192.168.93.128
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:tipo OS = Windows
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:computer = RALESCHUW1
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:domain user = Leschiera
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:BIOS = INTEL  - 6040000
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:CPU = Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:RAM = 2047 MB
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:versione OS = Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:23:02: Aggiornato parametro per 204: postazione:schermo = {Width=1366, Height=768}
+06/01/2017 17:23:04: Connessione 204 chiusa.
+06/01/2017 17:23:04: Connessione 204 chiusa.
+06/01/2017 17:23:23: Nuova connessione entrante ricevuta.
+06/01/2017 17:23:23: Nuova connessione 0 aperta da 192.168.93.128
+06/01/2017 17:23:23: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:23:57: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:username = rleschiera
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:password = ITxyR05mjcY4lp+/V6ArPA==
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:nome = Lello Leschiera
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:telefono = 0816103734
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:cellulare = 2233333
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:mail = raffaello.leschiera@eng.it
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:regione = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:cliente = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:coda = HR
+06/01/2017 17:23:57: Aggiornato parametro per 205: connessione:audio = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:coda = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:descrizione = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:partner = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:cliente = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:telefono = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:cellulare = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:mail = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:audio = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: richiesta:password = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:host = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:IP = 192.168.93.128
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:tipo OS = Windows
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:computer = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:domain user = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:BIOS = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:CPU = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:RAM = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:versione OS = 
+06/01/2017 17:23:57: Aggiornato parametro per 205: postazione:schermo = 
+06/01/2017 17:24:05: Nuova connessione entrante ricevuta.
+06/01/2017 17:24:05: Nuova connessione 0 aperta da 192.168.93.128
+06/01/2017 17:24:05: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:24:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:username = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:password = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:nome = Gigi Cliente
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:telefono = 012345678
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:cellulare = 33899009992
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:mail = gigi.cliente@gmail.com
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:regione = San Marino
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:cliente = ISS
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:coda = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: connessione:audio = 1
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:coda = AMC
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:partner = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:cliente = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:telefono = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:cellulare = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:mail = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:audio = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: richiesta:password = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:host = 
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:IP = 192.168.93.128
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:tipo OS = Windows
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:computer = RALESCHUW1
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:domain user = Leschiera
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:BIOS = INTEL  - 6040000
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:CPU = Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:RAM = 2047 MB
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:versione OS = Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:24:07: Aggiornato parametro per 206: postazione:schermo = {Width=1366, Height=768}
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:coda = AMC
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:cliente = ISS
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:telefono = 012345678
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:cellulare = 33899009992
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:mail = gigi.cliente@gmail.com
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:audio = 1
+06/01/2017 17:24:14: Aggiornato parametro per 206: richiesta:password = EE5B0E48C8FE97716D
+06/01/2017 17:24:50: Connessione 206 chiusa.
+06/01/2017 17:24:50: Sessione 63 distrutta: entrambi i partner sono caduti.
+06/01/2017 17:24:50: Connessione 206 chiusa.
+06/01/2017 17:24:53: Connessione 205 chiusa.
+06/01/2017 17:24:53: Connessione 205 chiusa.
+06/01/2017 17:24:54: ASRV_SessionThread per la sessione 63 e' stato chiuso.
+06/01/2017 17:24:54: Nuova connessione entrante ricevuta.
+06/01/2017 17:24:54: Nuova connessione 0 aperta da 192.168.93.128
+06/01/2017 17:24:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:24:57: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:username = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:password = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:nome = Gigi Cliente
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:telefono = 012345678
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:cellulare = 33899009992
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:mail = gigi.cliente@gmail.com
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:regione = San Marino
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:cliente = ISS
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:coda = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: connessione:audio = 1
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:coda = AMC
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:partner = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:cliente = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:telefono = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:cellulare = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:mail = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:audio = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: richiesta:password = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:host = 
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:IP = 192.168.93.128
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:tipo OS = Windows
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:computer = RALESCHUW1
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:domain user = Leschiera
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:BIOS = INTEL  - 6040000
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:CPU = Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:RAM = 2047 MB
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:versione OS = Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:24:57: Aggiornato parametro per 207: postazione:schermo = {Width=1366, Height=768}
+06/01/2017 17:25:05: Nuova connessione entrante ricevuta.
+06/01/2017 17:25:05: Nuova connessione 0 aperta da 192.168.93.128
+06/01/2017 17:25:05: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:25:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:username = rleschiera
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:password = ITxyR05mjcY4lp+/V6ArPA==
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:nome = Lello Leschiera
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:telefono = 0816103734
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:cellulare = 2233333
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:mail = raffaello.leschiera@eng.it
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:regione = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:cliente = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:coda = HR
+06/01/2017 17:25:09: Aggiornato parametro per 208: connessione:audio = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:coda = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:descrizione = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:partner = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:cliente = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:telefono = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:cellulare = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:mail = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:audio = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: richiesta:password = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:host = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:IP = 192.168.93.128
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:tipo OS = Windows
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:computer = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:domain user = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:BIOS = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:CPU = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:RAM = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:versione OS = 
+06/01/2017 17:25:09: Aggiornato parametro per 208: postazione:schermo = 
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:coda = HR
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:cliente = ISS
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:telefono = 012345678
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:cellulare = 33899009992
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:mail = gigi.cliente@gmail.com
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:audio = 1
+06/01/2017 17:25:30: Aggiornato parametro per 207: richiesta:password = EE5B0E48C8FE97716D
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:coda = HR
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:partner = Lello Leschiera
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:cliente = ISS
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:telefono = 0816103734
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:cellulare = 2233333
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:mail = raffaello.leschiera@eng.it
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:audio = 0
+06/01/2017 17:25:40: Aggiornato parametro per 207: richiesta:password = EE5B0E48C8FE97716D
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:coda = HR
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:partner = Gigi Cliente
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:cliente = ISS
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:telefono = 012345678
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:cellulare = 2233333
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:mail = gigi.cliente@gmail.com
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:audio = 1
+06/01/2017 17:25:40: Aggiornato parametro per 208: richiesta:password = 1234
+06/01/2017 17:36:19: Connessione 207 chiusa.
+06/01/2017 17:36:19: Richiesta 33 messa in loaded per caduta dell'agent.
+06/01/2017 17:36:19: Connessione 207 chiusa.
+06/01/2017 17:36:21: Connessione 208 chiusa.
+06/01/2017 17:36:21: Sessione 64 distrutta: entrambi i partner sono caduti.
+06/01/2017 17:36:21: Connessione 208 chiusa.
+06/01/2017 17:36:22: ASRV_SessionThread per la sessione 64 e' stato chiuso.
+06/01/2017 17:36:30: Processo terminato
+*************************************************
+06/01/2017 17:36:38: Processo server attivato su RALESCHUW1
+06/01/2017 17:36:39: Nuova connessione entrante ricevuta.
+06/01/2017 17:36:39: Nuova connessione 0 aperta da 192.168.93.128
+06/01/2017 17:36:39: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:36:42: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:username = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:password = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:nome = Gigi Cliente
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:telefono = 012345678
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:cellulare = 33899009992
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:mail = gigi.cliente@gmail.com
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:regione = San Marino
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:cliente = ISS
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:coda = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: connessione:audio = 1
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:coda = HR
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:partner = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:cliente = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:telefono = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:cellulare = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:mail = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:audio = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: richiesta:password = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:host = 
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:IP = 192.168.93.128
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:tipo OS = Windows
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:computer = RALESCHUW1
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:domain user = Leschiera
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:BIOS = INTEL  - 6040000
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:CPU = Intel(R) Core(TM) i5-2450M CPU @ 2.50GHz
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:RAM = 2047 MB
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:versione OS = Microsoft Windows NT 6.1.7601 Service Pack 1
+06/01/2017 17:36:42: Aggiornato parametro per 209: postazione:schermo = {Width=1366, Height=768}
+06/01/2017 17:36:45: Nuova connessione entrante ricevuta.
+06/01/2017 17:36:45: Nuova connessione 0 aperta da 192.168.93.128
+06/01/2017 17:36:45: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:36:46: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:username = rleschiera
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:password = ITxyR05mjcY4lp+/V6ArPA==
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:nome = Lello Leschiera
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:telefono = 0816103734
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:cellulare = 2233333
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:mail = raffaello.leschiera@eng.it
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:regione = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:cliente = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:coda = HR
+06/01/2017 17:36:46: Aggiornato parametro per 210: connessione:audio = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:coda = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:descrizione = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:partner = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:cliente = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:telefono = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:cellulare = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:mail = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:audio = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: richiesta:password = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:host = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:IP = 192.168.93.128
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:tipo OS = Windows
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:computer = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:domain user = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:BIOS = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:CPU = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:RAM = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:versione OS = 
+06/01/2017 17:36:46: Aggiornato parametro per 210: postazione:schermo = 
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:coda = HR
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:cliente = ISS
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:telefono = 012345678
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:cellulare = 33899009992
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:mail = gigi.cliente@gmail.com
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:audio = 1
+06/01/2017 17:36:52: Aggiornato parametro per 209: richiesta:password = EE5B0E48C8FE97716D
+06/01/2017 17:36:58: Aggiornato parametro per 209: richiesta:coda = HR
+06/01/2017 17:36:58: Aggiornato parametro per 209: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:36:58: Aggiornato parametro per 209: richiesta:partner = Lello Leschiera
+06/01/2017 17:36:58: Aggiornato parametro per 209: richiesta:cliente = ISS
+06/01/2017 17:36:58: Aggiornato parametro per 209: richiesta:telefono = 0816103734
+06/01/2017 17:36:59: Aggiornato parametro per 209: richiesta:cellulare = 2233333
+06/01/2017 17:36:59: Aggiornato parametro per 209: richiesta:mail = raffaello.leschiera@eng.it
+06/01/2017 17:36:59: Aggiornato parametro per 209: richiesta:audio = 0
+06/01/2017 17:36:59: Aggiornato parametro per 209: richiesta:password = EE5B0E48C8FE97716D
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:coda = HR
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:descrizione = Ho sufficienti informazioni base per poter proseguire...
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:partner = Gigi Cliente
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:cliente = ISS
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:telefono = 012345678
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:cellulare = 2233333
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:mail = gigi.cliente@gmail.com
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:audio = 1
+06/01/2017 17:36:59: Aggiornato parametro per 210: richiesta:password = 1234
+06/01/2017 17:37:43: Connessione 210 chiusa.
+06/01/2017 17:37:43: Richiesta 34 messa in pending per caduta del manager.
+06/01/2017 17:37:43: Connessione 210 chiusa.
+06/01/2017 17:37:44: Connessione 209 chiusa.
+06/01/2017 17:37:44: Sessione 65 distrutta: entrambi i partner sono caduti.
+06/01/2017 17:37:44: Connessione 209 chiusa.
+06/01/2017 17:37:48: Processo terminato
+*************************************************
+08/01/2017 11:04:40: Processo server attivato su RALESCHUW1
+08/01/2017 11:04:42: Nuova connessione entrante ricevuta.
+08/01/2017 11:04:42: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 11:04:42: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 11:04:46: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 11:04:59: Connessione 211 chiusa.
+08/01/2017 11:04:59: Connessione 211 chiusa.
+08/01/2017 11:05:00: Nuova connessione entrante ricevuta.
+08/01/2017 11:05:00: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 11:05:00: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 11:05:02: Connessione 212 chiusa.
+08/01/2017 11:05:02: Connessione 212 chiusa.
+08/01/2017 11:20:41: Nuova connessione entrante ricevuta.
+08/01/2017 11:20:41: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 11:20:41: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 11:20:46: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 11:20:54: Connessione 213 chiusa.
+08/01/2017 11:20:54: Connessione 213 chiusa.
+08/01/2017 11:21:10: Processo terminato
+*************************************************
+08/01/2017 17:17:11: Processo server attivato su RALESCHUW1
+08/01/2017 17:17:16: Nuova connessione entrante ricevuta.
+08/01/2017 17:17:16: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:17:16: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:17:16: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:17:16: c:\jada\src\server-common\database.c, 87: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY R.ID' at line 1 (SELECT     R.ID, R.STATO, R.ID_CODA, C.NOME, R.ID_AGENT, R.DESCRIZIONE, R.DATA_INIZIO FROM     RICHIESTA R, CODA C WHERE     R.STATO = 'O' AND ORDER BY R.ID)
+08/01/2017 17:17:16: c:\jada\src\server-common\database.c, 769: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY R.ID' at line 1 (SELECT     R.ID, R.STATO, R.ID_CODA, C.NOME, R.ID_AGENT, R.DESCRIZIONE, R.DATA_INIZIO FROM     RICHIESTA R, CODA C WHERE     R.STATO = 'O' AND ORDER BY R.ID)
+08/01/2017 17:17:16: c:\jada\src\jadalib\list.c, 430: generic error
+08/01/2017 17:17:16: c:\jada\src\server-common\handler.c, 916: Errore generico
+08/01/2017 17:17:16: c:\jada\src\server-common\handler.c, 336: Errore generico
+08/01/2017 17:17:16: c:\jada\src\server-common\handler.c, 72: Errore generico
+08/01/2017 17:17:16: c:\jada\src\server-common\thread.c, 186: Errore generico
+08/01/2017 17:17:50: Connessione 214 chiusa.
+08/01/2017 17:17:50: Connessione 214 chiusa.
+08/01/2017 17:17:50: Processo terminato
+*************************************************
+08/01/2017 17:18:48: Processo server attivato su RALESCHUW1
+08/01/2017 17:18:53: Nuova connessione entrante ricevuta.
+08/01/2017 17:18:53: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:18:53: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:18:53: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:18:53: c:\jada\src\server-common\database.c, 87: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY R.ID' at line 1 (SELECT     R.ID, R.STATO, R.ID_CODA, C.NOME, R.ID_AGENT, R.DESCRIZIONE, R.DATA_INIZIO FROM     RICHIESTA R, CODA C WHERE     R.STATO = 'O' AND ORDER BY R.ID)
+08/01/2017 17:18:53: c:\jada\src\server-common\database.c, 769: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ORDER BY R.ID' at line 1 (SELECT     R.ID, R.STATO, R.ID_CODA, C.NOME, R.ID_AGENT, R.DESCRIZIONE, R.DATA_INIZIO FROM     RICHIESTA R, CODA C WHERE     R.STATO = 'O' AND ORDER BY R.ID)
+08/01/2017 17:18:53: c:\jada\src\jadalib\list.c, 430: generic error
+08/01/2017 17:18:53: c:\jada\src\server-common\handler.c, 916: Errore generico
+08/01/2017 17:18:53: c:\jada\src\server-common\handler.c, 336: Errore generico
+08/01/2017 17:18:53: c:\jada\src\server-common\handler.c, 72: Errore generico
+08/01/2017 17:18:53: c:\jada\src\server-common\thread.c, 186: Errore generico
+08/01/2017 17:19:02: Connessione 215 chiusa.
+08/01/2017 17:19:02: Connessione 215 chiusa.
+08/01/2017 17:19:32: Nuova connessione entrante ricevuta.
+08/01/2017 17:19:32: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:19:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:19:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+08/01/2017 17:30:47: Processo server attivato su RALESCHUW1
+08/01/2017 17:31:00: Nuova connessione entrante ricevuta.
+08/01/2017 17:31:00: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:31:00: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:31:00: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+08/01/2017 17:31:28: Processo server attivato su RALESCHUW1
+08/01/2017 17:31:30: Nuova connessione entrante ricevuta.
+08/01/2017 17:31:30: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:31:30: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:31:30: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+08/01/2017 17:32:53: Processo server attivato su RALESCHUW1
+08/01/2017 17:32:56: Nuova connessione entrante ricevuta.
+08/01/2017 17:32:56: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:32:56: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:32:56: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:34:32: Connessione 219 chiusa.
+08/01/2017 17:34:32: Connessione 219 chiusa.
+08/01/2017 17:34:57: Nuova connessione entrante ricevuta.
+08/01/2017 17:34:57: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:34:57: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:34:57: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:35:41: c:\jada\src\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 396.
+08/01/2017 17:35:41: Connessione 220 chiusa.
+08/01/2017 17:35:41: Connessione 220 chiusa.
+08/01/2017 17:36:09: Nuova connessione entrante ricevuta.
+08/01/2017 17:36:09: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:36:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:36:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:36:28: Connessione 221 chiusa.
+08/01/2017 17:36:28: Connessione 221 chiusa.
+08/01/2017 17:37:07: Nuova connessione entrante ricevuta.
+08/01/2017 17:37:07: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:37:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:37:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:38:19: Connessione 222 chiusa.
+08/01/2017 17:38:19: Connessione 222 chiusa.
+08/01/2017 17:39:28: Processo terminato
+*************************************************
+08/01/2017 17:39:49: Processo server attivato su RALESCHUW1
+08/01/2017 17:39:54: Nuova connessione entrante ricevuta.
+08/01/2017 17:39:54: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:39:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:39:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:41:11: c:\jada\src\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 392.
+08/01/2017 17:41:11: Connessione 223 chiusa.
+08/01/2017 17:41:11: Connessione 223 chiusa.
+08/01/2017 17:42:24: Processo terminato
+*************************************************
+08/01/2017 17:43:09: Processo server attivato su RALESCHUW1
+08/01/2017 17:43:13: Nuova connessione entrante ricevuta.
+08/01/2017 17:43:13: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:43:13: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:43:13: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:44:04: Processo terminato
+*************************************************
+08/01/2017 17:44:32: Processo server attivato su RALESCHUW1
+08/01/2017 17:44:34: Nuova connessione entrante ricevuta.
+08/01/2017 17:44:34: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:44:34: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:44:34: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:45:18: c:\jada\src\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 412.
+08/01/2017 17:45:18: Connessione 225 chiusa.
+08/01/2017 17:45:18: Connessione 225 chiusa.
+08/01/2017 17:45:34: Nuova connessione entrante ricevuta.
+08/01/2017 17:45:34: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:45:34: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:45:34: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:48:51: c:\jada\src\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 320.
+08/01/2017 17:48:51: Connessione 226 chiusa.
+08/01/2017 17:48:51: Connessione 226 chiusa.
+08/01/2017 17:48:55: Processo terminato
+*************************************************
+08/01/2017 17:49:13: Processo server attivato su RALESCHUW1
+08/01/2017 17:49:20: Nuova connessione entrante ricevuta.
+08/01/2017 17:49:20: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:49:20: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:49:20: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:50:32: c:\jada\src\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 392.
+08/01/2017 17:50:32: Connessione 227 chiusa.
+08/01/2017 17:50:32: Connessione 227 chiusa.
+08/01/2017 17:50:39: Processo terminato
+*************************************************
+08/01/2017 17:51:21: Processo server attivato su RALESCHUW1
+08/01/2017 17:51:22: Nuova connessione entrante ricevuta.
+08/01/2017 17:51:22: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:51:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:51:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:51:37: Connessione 228 chiusa.
+08/01/2017 17:51:37: Connessione 228 chiusa.
+08/01/2017 17:51:51: Nuova connessione entrante ricevuta.
+08/01/2017 17:51:51: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:51:51: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:51:51: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:54:34: Connessione 229 chiusa.
+08/01/2017 17:54:34: Connessione 229 chiusa.
+08/01/2017 17:54:38: Processo terminato
+*************************************************
+08/01/2017 17:56:10: Processo server attivato su RALESCHUW1
+08/01/2017 17:56:12: Nuova connessione entrante ricevuta.
+08/01/2017 17:56:12: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:56:12: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:56:12: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:56:26: Connessione 230 chiusa.
+08/01/2017 17:56:26: Connessione 230 chiusa.
+08/01/2017 17:56:35: Nuova connessione entrante ricevuta.
+08/01/2017 17:56:35: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:56:35: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:56:35: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:57:20: Connessione 231 chiusa.
+08/01/2017 17:57:20: Connessione 231 chiusa.
+08/01/2017 17:57:26: Nuova connessione entrante ricevuta.
+08/01/2017 17:57:26: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 17:57:26: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 17:57:26: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:06:27: Connessione 232 chiusa.
+08/01/2017 18:06:27: Connessione 232 chiusa.
+08/01/2017 18:06:40: Processo terminato
+*************************************************
+08/01/2017 18:17:41: Processo server attivato su RALESCHUW1
+08/01/2017 18:17:45: Nuova connessione entrante ricevuta.
+08/01/2017 18:17:45: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:17:45: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:17:45: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:18:41: Connessione 233 chiusa.
+08/01/2017 18:18:41: Connessione 233 chiusa.
+*************************************************
+08/01/2017 18:19:56: Processo server attivato su RALESCHUW1
+08/01/2017 18:20:42: Processo terminato
+*************************************************
+08/01/2017 18:20:52: Processo server attivato su RALESCHUW1
+08/01/2017 18:20:57: Nuova connessione entrante ricevuta.
+08/01/2017 18:20:57: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:20:57: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:20:57: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:23:03: Connessione 234 chiusa.
+08/01/2017 18:23:03: Connessione 234 chiusa.
+08/01/2017 18:23:06: Processo terminato
+*************************************************
+08/01/2017 18:24:19: Processo server attivato su RALESCHUW1
+08/01/2017 18:24:19: Nuova connessione entrante ricevuta.
+08/01/2017 18:24:19: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:24:19: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:24:20: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:25:11: Connessione 235 chiusa.
+08/01/2017 18:25:11: Connessione 235 chiusa.
+08/01/2017 18:25:17: Nuova connessione entrante ricevuta.
+08/01/2017 18:25:17: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:25:17: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:25:17: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:25:48: Connessione 236 chiusa.
+08/01/2017 18:25:48: Connessione 236 chiusa.
+08/01/2017 18:25:52: Processo terminato
+*************************************************
+08/01/2017 18:26:05: Processo server attivato su RALESCHUW1
+08/01/2017 18:26:06: Nuova connessione entrante ricevuta.
+08/01/2017 18:26:06: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:26:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:26:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:26:36: Connessione 237 chiusa.
+08/01/2017 18:26:36: Connessione 237 chiusa.
+08/01/2017 18:26:37: Processo terminato
+*************************************************
+08/01/2017 18:27:29: Processo server attivato su RALESCHUW1
+08/01/2017 18:27:32: Nuova connessione entrante ricevuta.
+08/01/2017 18:27:32: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:27:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:27:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:27:33: Nuova connessione entrante ricevuta.
+08/01/2017 18:27:33: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:27:33: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:27:33: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:28:05: Connessione 238 chiusa.
+08/01/2017 18:28:05: Connessione 238 chiusa.
+08/01/2017 18:28:11: Nuova connessione entrante ricevuta.
+08/01/2017 18:28:11: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:28:11: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:28:11: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:28:46: Ricevuta accettazione richiesta 9 da connessione 239 ma la sessione non esiste
+08/01/2017 18:43:26: Processo terminato
+*************************************************
+08/01/2017 18:45:05: Processo server attivato su RALESCHUW1
+08/01/2017 18:45:06: Nuova connessione entrante ricevuta.
+08/01/2017 18:45:06: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:45:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:45:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:45:16: Nuova connessione entrante ricevuta.
+08/01/2017 18:45:16: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 18:45:16: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:45:16: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 18:45:51: Connessione 241 chiusa.
+08/01/2017 18:45:51: Connessione 241 chiusa.
+08/01/2017 18:45:52: Connessione 242 chiusa.
+08/01/2017 18:45:52: Sessione 66 distrutta: entrambi i partner sono caduti.
+08/01/2017 18:45:52: Connessione 242 chiusa.
+08/01/2017 18:45:53: Processo terminato
+*************************************************
+08/01/2017 19:39:56: Processo server attivato su RALESCHUW1
+08/01/2017 19:39:59: Nuova connessione entrante ricevuta.
+08/01/2017 19:39:59: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 19:39:59: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 19:40:02: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 19:40:08: Nuova connessione entrante ricevuta.
+08/01/2017 19:40:08: Nuova connessione 0 aperta da 192.168.93.128
+08/01/2017 19:40:08: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 19:40:10: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+08/01/2017 19:41:49: Connessione 244 chiusa.
+08/01/2017 19:41:49: Connessione 244 chiusa.
+08/01/2017 19:41:51: Connessione 243 chiusa.
+08/01/2017 19:41:51: Connessione 243 chiusa.
+08/01/2017 19:41:54: Processo terminato
+*************************************************
+11/01/2017 22:12:59: Processo server attivato su RALESCHUW1
+11/01/2017 22:13:19: Nuova connessione entrante ricevuta.
+11/01/2017 22:13:19: Nuova connessione 0 aperta da 192.168.93.128
+11/01/2017 22:13:19: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+11/01/2017 22:13:22: Connessione 245 chiusa.
+11/01/2017 22:13:22: Connessione 245 chiusa.
+11/01/2017 22:17:46: Nuova connessione entrante ricevuta.
+11/01/2017 22:17:46: Nuova connessione 0 aperta da 192.168.93.128
+11/01/2017 22:17:46: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+11/01/2017 22:17:49: Connessione 246 chiusa.
+11/01/2017 22:17:49: Connessione 246 chiusa.
+11/01/2017 22:17:51: Nuova connessione entrante ricevuta.
+11/01/2017 22:17:51: Nuova connessione 0 aperta da 192.168.93.128
+11/01/2017 22:17:51: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+11/01/2017 22:17:53: Connessione 247 chiusa.
+11/01/2017 22:17:53: Connessione 247 chiusa.
+11/01/2017 22:18:14: Nuova connessione entrante ricevuta.
+11/01/2017 22:18:14: Nuova connessione 0 aperta da 192.168.93.128
+11/01/2017 22:18:14: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+11/01/2017 22:18:17: Connessione 248 chiusa.
+11/01/2017 22:18:17: Connessione 248 chiusa.
+11/01/2017 22:20:25: Nuova connessione entrante ricevuta.
+11/01/2017 22:20:25: Nuova connessione 0 aperta da 192.168.93.128
+11/01/2017 22:20:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+11/01/2017 22:21:29: Connessione 249 chiusa.
+11/01/2017 22:21:29: Connessione 249 chiusa.
+11/01/2017 22:54:44: Processo terminato
+*************************************************
+16/01/2017 19:19:09: Processo server attivato su RALESCHUW1
+16/01/2017 19:19:24: Processo terminato
+*************************************************
+17/01/2017 11:10:17: Processo server attivato su RALESCHUW1
+17/01/2017 11:10:22: Nuova connessione entrante ricevuta.
+17/01/2017 11:10:22: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:10:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:10:29: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:10:32: Nuova connessione entrante ricevuta.
+17/01/2017 11:10:32: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:10:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:10:34: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:11:01: Connessione 250 chiusa.
+17/01/2017 11:11:01: Richiesta 31 messa in loaded per caduta dell'agent.
+17/01/2017 11:11:01: Connessione 250 chiusa.
+17/01/2017 11:11:03: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:11:03: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:11:03: Messaggio sulla sessione 67 non valido (JADA_MSG_PING)
+17/01/2017 11:11:05: Connessione 251 chiusa.
+17/01/2017 11:11:05: Sessione 67 distrutta: entrambi i partner sono caduti.
+17/01/2017 11:11:05: Connessione 251 chiusa.
+17/01/2017 11:11:08: ASRV_SessionThread per la sessione 67 e' stato chiuso.
+17/01/2017 11:12:09: Nuova connessione entrante ricevuta.
+17/01/2017 11:12:09: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:12:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:12:12: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:12:21: Nuova connessione entrante ricevuta.
+17/01/2017 11:12:21: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:12:21: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:12:26: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:12:27: Messaggio ricevuto ma nessuna sessione aperta (JADA_MSGTYPE_SUPPORT, JADA_MSG_RESUME_SUPPORT, Manager)
+17/01/2017 11:12:53: Connessione 252 chiusa.
+17/01/2017 11:12:53: Richiesta 31 messa in loaded per caduta dell'agent.
+17/01/2017 11:12:53: Connessione 252 chiusa.
+17/01/2017 11:12:57: Connessione 253 chiusa.
+17/01/2017 11:12:57: Sessione 68 distrutta: entrambi i partner sono caduti.
+17/01/2017 11:12:57: Connessione 253 chiusa.
+17/01/2017 11:12:57: ASRV_SessionThread per la sessione 68 e' stato chiuso.
+17/01/2017 11:44:54: Nuova connessione entrante ricevuta.
+17/01/2017 11:44:54: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:44:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:44:59: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:45:19: Nuova connessione entrante ricevuta.
+17/01/2017 11:45:19: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:45:19: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:45:21: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:45:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:47:03: Connessione 254 chiusa.
+17/01/2017 11:47:03: Richiesta 31 messa in loaded per caduta dell'agent.
+17/01/2017 11:47:03: Connessione 254 chiusa.
+17/01/2017 11:47:13: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:47:13: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:47:13: Messaggio sulla sessione 69 non valido (JADA_MSG_PING)
+17/01/2017 11:47:16: Connessione 255 chiusa.
+17/01/2017 11:47:16: Sessione 69 distrutta: entrambi i partner sono caduti.
+17/01/2017 11:47:16: Connessione 255 chiusa.
+17/01/2017 11:47:18: ASRV_SessionThread per la sessione 69 e' stato chiuso.
+17/01/2017 11:47:22: Nuova connessione entrante ricevuta.
+17/01/2017 11:47:22: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:47:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:47:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:47:32: Nuova connessione entrante ricevuta.
+17/01/2017 11:47:32: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:47:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:47:33: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:48:01: Connessione 256 chiusa.
+17/01/2017 11:48:01: Richiesta 31 messa in loaded per caduta dell'agent.
+17/01/2017 11:48:01: Connessione 256 chiusa.
+17/01/2017 11:48:03: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:48:03: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:48:03: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:48:13: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:48:13: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:48:13: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:48:23: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:48:23: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:48:23: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:48:33: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:48:33: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:48:33: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:48:43: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:48:43: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:48:43: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:48:53: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:48:53: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:48:53: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:49:03: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:49:03: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:49:03: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:49:13: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:49:13: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:49:13: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:49:23: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:49:23: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:49:23: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:49:33: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:49:33: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:49:33: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:49:39: Nuova connessione entrante ricevuta.
+17/01/2017 11:49:39: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:49:39: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:49:42: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:49:43: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:49:43: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:49:43: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:49:53: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:49:53: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:49:53: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:50:03: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:50:03: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:50:03: Messaggio sulla sessione 70 non valido (JADA_MSG_PING)
+17/01/2017 11:56:39: Connessione 257 chiusa.
+17/01/2017 11:56:39: Richiesta 31 messa in pending per caduta del manager.
+17/01/2017 11:56:39: Connessione 257 chiusa.
+17/01/2017 11:56:45: Connessione 258 chiusa.
+17/01/2017 11:56:45: Sessione 70 distrutta: entrambi i partner sono caduti.
+17/01/2017 11:56:45: Connessione 258 chiusa.
+17/01/2017 11:56:45: ASRV_SessionThread per la sessione 70 e' stato chiuso.
+17/01/2017 11:57:03: Nuova connessione entrante ricevuta.
+17/01/2017 11:57:03: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:57:04: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:57:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:57:25: Nuova connessione entrante ricevuta.
+17/01/2017 11:57:25: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:57:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:57:27: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:59:16: Connessione 259 chiusa.
+17/01/2017 11:59:16: Richiesta 36 messa in loaded per caduta dell'agent.
+17/01/2017 11:59:16: Connessione 259 chiusa.
+17/01/2017 11:59:24: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:59:24: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:59:24: Messaggio sulla sessione 71 non valido (JADA_MSG_PING)
+17/01/2017 11:59:24: Nuova connessione entrante ricevuta.
+17/01/2017 11:59:24: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 11:59:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:59:27: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 11:59:34: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 11:59:34: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 11:59:34: Messaggio sulla sessione 71 non valido (JADA_MSG_PING)
+17/01/2017 12:01:54: Connessione 261 chiusa.
+17/01/2017 12:01:54: Richiesta 37 messa in loaded per caduta dell'agent.
+17/01/2017 12:01:54: Connessione 261 chiusa.
+17/01/2017 12:01:55: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:01:55: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:01:55: Messaggio sulla sessione 72 non valido (JADA_MSG_PING)
+17/01/2017 12:02:01: Nuova connessione entrante ricevuta.
+17/01/2017 12:02:01: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 12:02:01: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:02:04: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:02:05: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:02:05: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:02:05: Messaggio sulla sessione 72 non valido (JADA_MSG_PING)
+17/01/2017 12:02:15: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:02:15: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:02:15: Messaggio sulla sessione 72 non valido (JADA_MSG_PING)
+17/01/2017 12:03:42: Connessione 262 chiusa.
+17/01/2017 12:03:42: Richiesta 38 messa in loaded per caduta dell'agent.
+17/01/2017 12:03:42: Connessione 262 chiusa.
+17/01/2017 12:03:45: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:03:45: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:03:45: Messaggio sulla sessione 73 non valido (JADA_MSG_PING)
+17/01/2017 12:03:55: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:03:55: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:03:55: Messaggio sulla sessione 73 non valido (JADA_MSG_PING)
+17/01/2017 12:04:05: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:04:05: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:04:05: Messaggio sulla sessione 73 non valido (JADA_MSG_PING)
+17/01/2017 12:04:15: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:04:15: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:04:15: Messaggio sulla sessione 73 non valido (JADA_MSG_PING)
+17/01/2017 12:04:25: c:\jada\src\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+17/01/2017 12:04:25: c:\jada\src\server-support\supp-handler.c, 52: Errore generico
+17/01/2017 12:04:25: Messaggio sulla sessione 73 non valido (JADA_MSG_PING)
+17/01/2017 12:04:27: Connessione 260 chiusa.
+17/01/2017 12:04:27: Sessione 73 distrutta: entrambi i partner sono caduti.
+17/01/2017 12:04:27: Connessione 260 chiusa.
+17/01/2017 12:04:30: ASRV_SessionThread per la sessione 73 e' stato chiuso.
+17/01/2017 12:04:35: Processo terminato
+*************************************************
+17/01/2017 12:07:24: Processo server attivato su RALESCHUW1
+17/01/2017 12:07:28: Nuova connessione entrante ricevuta.
+17/01/2017 12:07:28: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 12:07:28: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:07:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:07:40: Nuova connessione entrante ricevuta.
+17/01/2017 12:07:40: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 12:07:40: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:07:42: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:09:54: Connessione 264 chiusa.
+17/01/2017 12:09:54: Sessione 74 distrutta: entrambi i partner sono caduti.
+17/01/2017 12:09:54: Connessione 264 chiusa.
+17/01/2017 12:09:55: ASRV_SessionThread per la sessione 74 e' stato chiuso.
+17/01/2017 12:09:55: Connessione 263 chiusa.
+17/01/2017 12:09:55: Connessione 263 chiusa.
+17/01/2017 12:10:15: Nuova connessione entrante ricevuta.
+17/01/2017 12:10:15: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 12:10:15: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:10:17: Connessione 265 chiusa.
+17/01/2017 12:10:17: Connessione 265 chiusa.
+17/01/2017 12:15:58: Processo terminato
+*************************************************
+17/01/2017 12:36:54: Processo server attivato su RALESCHUW1
+17/01/2017 12:40:54: Processo terminato
+*************************************************
+17/01/2017 12:43:45: Processo server attivato su RALESCHUW1
+17/01/2017 12:44:01: Nuova connessione entrante ricevuta.
+17/01/2017 12:44:01: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 12:44:01: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:44:04: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:44:07: Nuova connessione entrante ricevuta.
+17/01/2017 12:44:07: Nuova connessione 0 aperta da 192.168.93.128
+17/01/2017 12:44:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:44:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+17/01/2017 12:44:26: Connessione 267 chiusa.
+17/01/2017 12:44:26: Connessione 267 chiusa.
+17/01/2017 12:44:27: Connessione 266 chiusa.
+17/01/2017 12:44:27: Connessione 266 chiusa.
+18/01/2017 12:01:15: Processo terminato
+*************************************************
+18/01/2017 12:04:38: Processo server attivato su RALESCHUW1
+18/01/2017 14:30:35: Processo terminato
+*************************************************
+18/01/2017 14:31:16: Processo server attivato su RALESCHUW1
+18/01/2017 14:31:20: Processo terminato
+*************************************************
+18/01/2017 22:39:14: ..\jadalib\common.c, 367: Errore generico
+18/01/2017 22:39:14: ..\server-common\main.c, 133: Errore generico
+18/01/2017 22:39:20: Processo terminato
+*************************************************
+18/01/2017 22:43:29: Processo server attivato su RALESCHUW1
+18/01/2017 22:43:36: Nuova connessione entrante ricevuta.
+18/01/2017 22:43:36: Nuova connessione 0 aperta da 192.168.93.128
+18/01/2017 22:43:37: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:43:40: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:43:41: Nuova connessione entrante ricevuta.
+18/01/2017 22:43:41: Nuova connessione 0 aperta da 192.168.93.128
+18/01/2017 22:43:41: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:43:43: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:44:23: Connessione 268 chiusa.
+18/01/2017 22:44:23: Richiesta 31 messa in loaded per caduta dell'agent.
+18/01/2017 22:44:23: Connessione 268 chiusa.
+18/01/2017 22:44:24: Connessione 269 chiusa.
+18/01/2017 22:44:24: Sessione 75 distrutta: entrambi i partner sono caduti.
+18/01/2017 22:44:24: Connessione 269 chiusa.
+18/01/2017 22:44:27: ASRV_SessionThread per la sessione 75 e' stato chiuso.
+18/01/2017 22:45:45: Nuova connessione entrante ricevuta.
+18/01/2017 22:45:45: Nuova connessione 0 aperta da 192.168.93.128
+18/01/2017 22:45:45: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:46:13: ..\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 800.
+18/01/2017 22:46:13: Connessione 270 chiusa.
+18/01/2017 22:46:13: Connessione 270 chiusa.
+18/01/2017 22:48:18: Processo terminato
+*************************************************
+18/01/2017 22:49:06: Processo server attivato su RALESCHUW1
+18/01/2017 22:49:14: Nuova connessione entrante ricevuta.
+18/01/2017 22:49:14: Nuova connessione 0 aperta da 192.168.93.128
+18/01/2017 22:49:14: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:49:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:49:29: Nuova connessione entrante ricevuta.
+18/01/2017 22:49:29: Nuova connessione 0 aperta da 192.168.93.128
+18/01/2017 22:49:29: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:49:31: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:51:49: Connessione 272 chiusa.
+18/01/2017 22:51:49: Richiesta 9 messa in pending per caduta del manager.
+18/01/2017 22:51:49: Connessione 272 chiusa.
+18/01/2017 22:51:52: Connessione 271 chiusa.
+18/01/2017 22:51:52: Sessione 76 distrutta: entrambi i partner sono caduti.
+18/01/2017 22:51:52: Connessione 271 chiusa.
+18/01/2017 22:51:55: ASRV_SessionThread per la sessione 76 e' stato chiuso.
+18/01/2017 22:52:10: Processo terminato
+*************************************************
+18/01/2017 22:52:34: Processo server attivato su RALESCHUW1
+18/01/2017 22:52:36: Nuova connessione entrante ricevuta.
+18/01/2017 22:52:36: Nuova connessione 0 aperta da 192.168.93.128
+18/01/2017 22:52:36: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:52:38: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:52:40: Messaggio ricevuto ma nessuna sessione aperta (JADA_MSGTYPE_SUPPORT, JADA_MSG_RESUME_SUPPORT, Agent)
+18/01/2017 22:52:41: Nuova connessione entrante ricevuta.
+18/01/2017 22:52:41: Nuova connessione 0 aperta da 192.168.93.128
+18/01/2017 22:52:41: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:52:43: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+18/01/2017 22:52:44: Messaggio ricevuto ma nessuna sessione aperta (JADA_MSGTYPE_SUPPORT, JADA_MSG_RESUME_SUPPORT, Manager)
+18/01/2017 22:53:43: Connessione 274 chiusa.
+18/01/2017 22:53:43: Richiesta 9 messa in pending per caduta del manager.
+18/01/2017 22:53:43: Connessione 274 chiusa.
+18/01/2017 22:53:44: Connessione 273 chiusa.
+18/01/2017 22:53:44: Sessione 77 distrutta: entrambi i partner sono caduti.
+18/01/2017 22:53:44: Connessione 273 chiusa.
+18/01/2017 22:53:46: Processo terminato
+*************************************************
+19/01/2017 10:12:06: Processo server attivato su RALESCHUW1
+19/01/2017 10:12:08: Processo terminato
+*************************************************
+19/01/2017 10:12:48: Processo server attivato su RALESCHUW1
+19/01/2017 10:12:52: Nuova connessione entrante ricevuta.
+19/01/2017 10:12:52: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:12:52: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:12:56: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:13:00: Nuova connessione entrante ricevuta.
+19/01/2017 10:13:00: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:13:00: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:13:02: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:13:32: Connessione 276 chiusa.
+19/01/2017 10:13:32: Connessione 276 chiusa.
+19/01/2017 10:13:34: Processo terminato
+*************************************************
+19/01/2017 10:19:23: Processo server attivato su RALESCHUW1
+19/01/2017 10:19:25: Nuova connessione entrante ricevuta.
+19/01/2017 10:19:25: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:19:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:19:29: Connessione 277 chiusa.
+19/01/2017 10:19:29: Connessione 277 chiusa.
+19/01/2017 10:19:30: Nuova connessione entrante ricevuta.
+19/01/2017 10:19:30: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:19:30: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:19:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:19:38: Connessione 278 chiusa.
+19/01/2017 10:19:38: Sessione 78 distrutta: entrambi i partner sono caduti.
+19/01/2017 10:19:38: Connessione 278 chiusa.
+19/01/2017 10:19:40: ASRV_SessionThread per la sessione 78 e' stato chiuso.
+19/01/2017 10:19:42: Nuova connessione entrante ricevuta.
+19/01/2017 10:19:42: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:19:42: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:19:44: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:19:49: Nuova connessione entrante ricevuta.
+19/01/2017 10:19:49: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:19:49: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:19:50: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:20:10: Connessione 279 chiusa.
+19/01/2017 10:20:10: Richiesta 39 messa in loaded per caduta dell'agent.
+19/01/2017 10:20:10: Connessione 279 chiusa.
+19/01/2017 10:20:11: Connessione 280 chiusa.
+19/01/2017 10:20:11: Sessione 79 distrutta: entrambi i partner sono caduti.
+19/01/2017 10:20:11: Connessione 280 chiusa.
+19/01/2017 10:20:14: ASRV_SessionThread per la sessione 79 e' stato chiuso.
+19/01/2017 10:20:25: Nuova connessione entrante ricevuta.
+19/01/2017 10:20:25: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:20:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:20:28: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:20:30: Nuova connessione entrante ricevuta.
+19/01/2017 10:20:30: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 10:20:30: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:20:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 10:20:54: Connessione 281 chiusa.
+19/01/2017 10:20:54: Richiesta 9 messa in loaded per caduta dell'agent.
+19/01/2017 10:20:54: Connessione 281 chiusa.
+19/01/2017 10:20:57: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 10:20:57: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 10:20:57: Messaggio sulla sessione 80 non valido (JADA_MSG_PING)
+19/01/2017 10:21:07: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 10:21:07: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 10:21:07: Messaggio sulla sessione 80 non valido (JADA_MSG_PING)
+19/01/2017 10:21:17: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 10:21:17: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 10:21:17: Messaggio sulla sessione 80 non valido (JADA_MSG_PING)
+19/01/2017 10:21:27: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 10:21:27: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 10:21:27: Messaggio sulla sessione 80 non valido (JADA_MSG_PING)
+19/01/2017 10:21:37: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 10:21:37: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 10:21:37: Messaggio sulla sessione 80 non valido (JADA_MSG_PING)
+19/01/2017 10:21:47: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 10:21:47: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 10:21:47: Messaggio sulla sessione 80 non valido (JADA_MSG_PING)
+19/01/2017 10:21:48: Processo terminato
+*************************************************
+19/01/2017 11:13:48: Processo server attivato su RALESCHUW1
+19/01/2017 11:13:49: Nuova connessione entrante ricevuta.
+19/01/2017 11:13:49: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:13:49: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:13:52: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:13:56: Nuova connessione entrante ricevuta.
+19/01/2017 11:13:56: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:13:56: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:13:58: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:14:22: Connessione 283 chiusa.
+19/01/2017 11:14:22: Richiesta 31 messa in loaded per caduta dell'agent.
+19/01/2017 11:14:22: Connessione 283 chiusa.
+19/01/2017 11:14:27: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 11:14:27: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 11:14:27: Messaggio sulla sessione 81 non valido (JADA_MSG_PING)
+19/01/2017 11:14:37: ..\server-support\supp-handler.c, 382: errore nella lettura della connessione sorgente
+19/01/2017 11:14:37: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 11:14:37: Messaggio sulla sessione 81 non valido (JADA_MSG_PING)
+19/01/2017 11:14:40: Connessione 284 chiusa.
+19/01/2017 11:14:40: Sessione 81 distrutta: entrambi i partner sono caduti.
+19/01/2017 11:14:40: Connessione 284 chiusa.
+19/01/2017 11:14:42: Processo terminato
+*************************************************
+19/01/2017 11:16:20: Processo server attivato su RALESCHUW1
+19/01/2017 11:16:23: Nuova connessione entrante ricevuta.
+19/01/2017 11:16:23: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:16:23: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:16:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:16:43: Nuova connessione entrante ricevuta.
+19/01/2017 11:16:43: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:16:43: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:16:45: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:17:10: Connessione 286 chiusa.
+19/01/2017 11:17:10: Richiesta 31 messa in pending per caduta del manager.
+19/01/2017 11:17:10: Connessione 286 chiusa.
+19/01/2017 11:18:19: Nuova connessione entrante ricevuta.
+19/01/2017 11:18:19: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:18:19: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:18:20: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:18:22: Messaggio ricevuto ma nessuna sessione aperta (JADA_MSGTYPE_SUPPORT, JADA_MSG_RESUME_SUPPORT, Manager)
+19/01/2017 11:19:06: Connessione 287 chiusa.
+19/01/2017 11:19:06: Richiesta 31 messa in pending per caduta del manager.
+19/01/2017 11:19:06: Connessione 287 chiusa.
+19/01/2017 11:19:21: ..\server-support\supp-handler.c, 405: errore nella lettura della connessione sorgente
+19/01/2017 11:19:21: ..\server-support\supp-handler.c, 57: Errore generico
+19/01/2017 11:19:21: Messaggio sulla sessione 82 non valido (JADA_MSG_PING_REPLY)
+19/01/2017 11:19:36: Connessione 285 chiusa.
+19/01/2017 11:19:36: Sessione 82 distrutta: entrambi i partner sono caduti.
+19/01/2017 11:19:36: Connessione 285 chiusa.
+19/01/2017 11:19:36: ASRV_SessionThread per la sessione 82 e' stato chiuso.
+19/01/2017 11:19:59: Processo terminato
+*************************************************
+19/01/2017 11:20:02: Processo server attivato su RALESCHUW1
+19/01/2017 11:20:06: Nuova connessione entrante ricevuta.
+19/01/2017 11:20:06: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:20:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:20:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:20:12: Messaggio ricevuto ma nessuna sessione aperta (JADA_MSGTYPE_SUPPORT, JADA_MSG_RESUME_SUPPORT, Agent)
+19/01/2017 11:20:14: Nuova connessione entrante ricevuta.
+19/01/2017 11:20:14: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:20:14: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:20:15: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:20:36: Connessione 289 chiusa.
+19/01/2017 11:21:20: Richiesta 31 messa in pending per caduta del manager.
+19/01/2017 11:21:44: Connessione 289 chiusa.
+19/01/2017 11:22:00: Processo terminato
+*************************************************
+19/01/2017 11:23:03: Processo server attivato su RALESCHUW1
+19/01/2017 11:23:06: Nuova connessione entrante ricevuta.
+19/01/2017 11:23:06: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:23:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:23:08: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:23:13: Nuova connessione entrante ricevuta.
+19/01/2017 11:23:13: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:23:13: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:23:15: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:23:33: Connessione 291 chiusa.
+19/01/2017 11:23:33: Richiesta 31 messa in pending per caduta del manager.
+19/01/2017 11:23:33: Connessione 291 chiusa.
+19/01/2017 11:27:10: ..\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 732.
+19/01/2017 11:27:10: Connessione 290 chiusa.
+19/01/2017 11:27:10: Sessione 84 distrutta: entrambi i partner sono caduti.
+19/01/2017 11:27:10: Connessione 290 chiusa.
+19/01/2017 11:27:14: ASRV_SessionThread per la sessione 84 e' stato chiuso.
+19/01/2017 11:29:18: Processo terminato
+*************************************************
+19/01/2017 11:30:57: Processo server attivato su RALESCHUW1
+19/01/2017 11:30:59: Nuova connessione entrante ricevuta.
+19/01/2017 11:30:59: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:30:59: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:01: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:16: Nuova connessione entrante ricevuta.
+19/01/2017 11:31:16: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:31:21: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:40: Connessione 293 chiusa.
+19/01/2017 11:31:40: Richiesta 35 messa in pending per caduta del manager.
+19/01/2017 11:31:40: Connessione 293 chiusa.
+19/01/2017 11:31:50: Nuova connessione entrante ricevuta.
+19/01/2017 11:31:50: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:31:50: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:52: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:58: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:31:59: Messaggio ricevuto ma nessuna sessione aperta (JADA_MSGTYPE_SUPPORT, JADA_MSG_RESUME_SUPPORT, Manager)
+19/01/2017 11:32:34: Connessione 294 chiusa.
+19/01/2017 11:32:34: Connessione 294 chiusa.
+19/01/2017 11:33:44: Nuova connessione entrante ricevuta.
+19/01/2017 11:33:44: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:33:44: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:33:46: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:33:48: Messaggio ricevuto ma nessuna sessione aperta (JADA_MSGTYPE_SUPPORT, JADA_MSG_RESUME_SUPPORT, Manager)
+19/01/2017 11:33:56: Connessione 295 chiusa.
+19/01/2017 11:33:56: Connessione 295 chiusa.
+19/01/2017 11:33:58: Connessione 292 chiusa.
+19/01/2017 11:33:58: Sessione 85 distrutta: entrambi i partner sono caduti.
+19/01/2017 11:33:58: Connessione 292 chiusa.
+19/01/2017 11:34:01: ASRV_SessionThread per la sessione 85 e' stato chiuso.
+19/01/2017 11:34:02: Processo terminato
+*************************************************
+19/01/2017 11:36:02: Processo server attivato su RALESCHUW1
+19/01/2017 11:36:03: Nuova connessione entrante ricevuta.
+19/01/2017 11:36:03: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:36:03: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:36:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:36:09: Nuova connessione entrante ricevuta.
+19/01/2017 11:36:09: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:36:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:36:10: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:36:26: Connessione 297 chiusa.
+19/01/2017 11:36:26: Richiesta 35 messa in pending per caduta del manager.
+19/01/2017 11:36:26: Connessione 297 chiusa.
+19/01/2017 11:36:30: Nuova connessione entrante ricevuta.
+19/01/2017 11:36:30: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:36:30: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:36:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:36:35: Messaggio sulla connessione 298 non valido (JADA_MSG_RESUME_SUPPORT)
+19/01/2017 11:49:23: Connessione 298 chiusa.
+19/01/2017 11:49:23: Connessione 298 chiusa.
+19/01/2017 11:49:26: Connessione 296 chiusa.
+19/01/2017 11:49:26: Sessione 86 distrutta: entrambi i partner sono caduti.
+19/01/2017 11:49:26: Connessione 296 chiusa.
+19/01/2017 11:49:28: ASRV_SessionThread per la sessione 86 e' stato chiuso.
+19/01/2017 11:49:28: Processo terminato
+*************************************************
+19/01/2017 11:49:56: Processo server attivato su RALESCHUW1
+19/01/2017 11:49:59: Nuova connessione entrante ricevuta.
+19/01/2017 11:49:59: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 11:49:59: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 11:50:01: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 12:15:24: Processo server attivato su RALESCHUW1
+19/01/2017 12:15:26: Nuova connessione entrante ricevuta.
+19/01/2017 12:15:26: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:15:26: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:15:28: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 12:16:13: Processo server attivato su RALESCHUW1
+19/01/2017 12:16:22: Nuova connessione entrante ricevuta.
+19/01/2017 12:16:22: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:16:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:16:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:17:34: ..\server-common\database.c, 435: manager non trovato nel DB
+19/01/2017 12:17:54: Nuova connessione entrante ricevuta.
+19/01/2017 12:17:54: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:17:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:17:56: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 12:22:47: Processo server attivato su RALESCHUW1
+19/01/2017 12:25:39: Nuova connessione entrante ricevuta.
+19/01/2017 12:25:39: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:25:39: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:25:41: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:25:54: ..\server-common\database.c, 435: manager non trovato nel DB
+19/01/2017 12:27:27: Connessione 303 chiusa.
+19/01/2017 12:27:40: Sessione 88 distrutta: entrambi i partner sono caduti.
+19/01/2017 12:27:40: Connessione 303 chiusa.
+19/01/2017 12:27:44: Nuova connessione entrante ricevuta.
+19/01/2017 12:27:44: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:27:44: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:27:45: ASRV_SessionThread per la sessione 88 e' stato chiuso.
+19/01/2017 12:27:49: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:28:59: ..\server-common\database.c, 435: manager non trovato nel DB
+19/01/2017 12:30:32: ..\server-common\database.c, 435: manager non trovato nel DB
+19/01/2017 12:32:06: Nuova connessione entrante ricevuta.
+19/01/2017 12:32:06: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:32:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:32:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:36:00: Connessione 305 chiusa.
+*************************************************
+19/01/2017 12:36:19: Processo server attivato su RALESCHUW1
+19/01/2017 12:36:21: Nuova connessione entrante ricevuta.
+19/01/2017 12:36:21: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:36:21: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:36:23: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:36:39: Nuova connessione entrante ricevuta.
+19/01/2017 12:36:39: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:36:39: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:36:40: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:37:50: Connessione 306 chiusa.
+19/01/2017 12:37:54: Richiesta 35 messa in loaded per caduta dell'agent.
+19/01/2017 12:37:54: Connessione 306 chiusa.
+19/01/2017 12:38:04: Nuova connessione entrante ricevuta.
+19/01/2017 12:38:04: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:38:04: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:38:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:38:26: Connessione 308 chiusa.
+19/01/2017 12:38:32: Richiesta 35 messa in loaded per caduta dell'agent.
+19/01/2017 12:38:32: Connessione 308 chiusa.
+19/01/2017 12:38:37: Nuova connessione entrante ricevuta.
+19/01/2017 12:38:37: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 12:38:37: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 12:38:39: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 13:32:20: Processo server attivato su RALESCHUW1
+19/01/2017 13:32:24: Nuova connessione entrante ricevuta.
+19/01/2017 13:32:24: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 13:32:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:32:26: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 13:36:00: Processo server attivato su RALESCHUW1
+19/01/2017 13:37:45: Nuova connessione entrante ricevuta.
+19/01/2017 13:37:45: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 13:37:45: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:37:48: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:39:17: ..\jadalib\communication.c, 111: Zero bytes disponibili nella recv dal socket 736.
+19/01/2017 13:39:17: Connessione 311 chiusa.
+19/01/2017 13:39:17: Sessione 92 distrutta: entrambi i partner sono caduti.
+19/01/2017 13:39:17: Connessione 311 chiusa.
+19/01/2017 13:39:20: ASRV_SessionThread per la sessione 92 e' stato chiuso.
+19/01/2017 13:39:20: Processo terminato
+*************************************************
+19/01/2017 13:39:29: Processo server attivato su RALESCHUW1
+19/01/2017 13:39:31: Nuova connessione entrante ricevuta.
+19/01/2017 13:39:31: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 13:39:31: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:39:33: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 13:43:11: Processo server attivato su RALESCHUW1
+19/01/2017 13:43:15: Nuova connessione entrante ricevuta.
+19/01/2017 13:43:15: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 13:43:15: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:43:17: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:43:33: Nuova connessione entrante ricevuta.
+19/01/2017 13:43:33: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 13:43:33: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:43:34: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:45:04: Connessione 313 chiusa.
+19/01/2017 13:45:07: Richiesta 35 messa in loaded per caduta dell'agent.
+19/01/2017 13:45:07: Connessione 313 chiusa.
+19/01/2017 13:45:19: Nuova connessione entrante ricevuta.
+19/01/2017 13:45:19: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 13:45:19: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:45:21: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 13:46:06: Connessione 315 chiusa.
+19/01/2017 13:46:10: Richiesta 35 messa in loaded per caduta dell'agent.
+19/01/2017 13:46:10: Connessione 315 chiusa.
+19/01/2017 13:46:14: Connessione 314 chiusa.
+19/01/2017 13:46:14: Sessione 94 distrutta: entrambi i partner sono caduti.
+19/01/2017 13:46:14: Connessione 314 chiusa.
+19/01/2017 13:46:15: ASRV_SessionThread per la sessione 94 e' stato chiuso.
+19/01/2017 13:46:16: Processo terminato
+*************************************************
+19/01/2017 15:57:23: Processo server attivato su RALESCHUW1
+19/01/2017 15:57:24: Nuova connessione entrante ricevuta.
+19/01/2017 15:57:24: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 15:57:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 15:57:27: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 15:57:31: Nuova connessione entrante ricevuta.
+19/01/2017 15:57:31: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 15:57:31: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 15:57:43: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 15:57:44: Tipo messaggio ricevuto non valido (3003)
+19/01/2017 15:57:44: Tipo messaggio ricevuto non valido (3003)
+19/01/2017 15:57:54: Tipo messaggio ricevuto non valido (3003)
+19/01/2017 15:57:59: Processo terminato
+*************************************************
+19/01/2017 17:28:20: Processo server attivato su RALESCHUW1
+19/01/2017 17:28:22: Nuova connessione entrante ricevuta.
+19/01/2017 17:28:22: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:28:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:28:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:28:30: Nuova connessione entrante ricevuta.
+19/01/2017 17:28:30: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:28:30: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:28:41: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:29:53: ..\server-support\supp-handler.c, 427: errore nella lettura della connessione sorgente
+19/01/2017 17:29:53: ..\server-support\supp-handler.c, 52: Errore generico
+19/01/2017 17:29:53: Messaggio sulla sessione 97 non valido (JADA_MSG_PING_REPLY)
+19/01/2017 17:30:25: Connessione 319 chiusa.
+19/01/2017 17:30:25: Richiesta 40 messa in pending per caduta del manager.
+19/01/2017 17:30:25: Connessione 319 chiusa.
+19/01/2017 17:30:28: Nuova connessione entrante ricevuta.
+19/01/2017 17:30:28: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:30:28: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:30:35: Connessione 320 chiusa.
+19/01/2017 17:30:35: Connessione 320 chiusa.
+19/01/2017 17:31:49: Connessione 318 chiusa.
+19/01/2017 17:31:49: Sessione 97 distrutta: entrambi i partner sono caduti.
+19/01/2017 17:31:49: Connessione 318 chiusa.
+19/01/2017 17:31:53: ASRV_SessionThread per la sessione 97 e' stato chiuso.
+19/01/2017 17:32:38: Nuova connessione entrante ricevuta.
+19/01/2017 17:32:38: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:32:38: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:32:41: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:32:46: Nuova connessione entrante ricevuta.
+19/01/2017 17:32:46: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:32:46: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:32:47: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:32:59: Connessione 322 chiusa.
+19/01/2017 17:32:59: Richiesta 40 messa in pending per caduta del manager.
+19/01/2017 17:32:59: Connessione 322 chiusa.
+19/01/2017 17:33:04: Connessione 321 chiusa.
+19/01/2017 17:33:04: Sessione 98 distrutta: entrambi i partner sono caduti.
+19/01/2017 17:33:04: Connessione 321 chiusa.
+19/01/2017 17:33:04: ASRV_SessionThread per la sessione 98 e' stato chiuso.
+19/01/2017 17:33:07: Processo terminato
+*************************************************
+19/01/2017 17:33:51: Processo server attivato su RALESCHUW1
+19/01/2017 17:33:54: Nuova connessione entrante ricevuta.
+19/01/2017 17:33:54: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:33:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:33:56: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:34:07: Nuova connessione entrante ricevuta.
+19/01/2017 17:34:07: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:34:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:34:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 17:38:04: Processo server attivato su RALESCHUW1
+19/01/2017 17:38:07: Nuova connessione entrante ricevuta.
+19/01/2017 17:38:07: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:38:07: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:38:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:38:19: Nuova connessione entrante ricevuta.
+19/01/2017 17:38:19: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:38:19: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:38:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:39:30: Connessione 326 chiusa.
+19/01/2017 17:39:30: Richiesta 40 messa in pending per caduta del manager.
+19/01/2017 17:39:30: Connessione 326 chiusa.
+19/01/2017 17:39:35: Connessione 325 chiusa.
+19/01/2017 17:39:35: Sessione 100 distrutta: entrambi i partner sono caduti.
+19/01/2017 17:39:35: Connessione 325 chiusa.
+19/01/2017 17:39:35: ASRV_SessionThread per la sessione 100 e' stato chiuso.
+19/01/2017 17:40:44: Nuova connessione entrante ricevuta.
+19/01/2017 17:40:44: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:40:44: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 17:42:21: Processo server attivato su RALESCHUW1
+19/01/2017 17:42:25: Nuova connessione entrante ricevuta.
+19/01/2017 17:42:25: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:42:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:42:39: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:42:53: Nuova connessione entrante ricevuta.
+19/01/2017 17:42:53: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:42:53: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:42:58: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:42:59: ..\server-support\supp-handler.c, 404: errore nella lettura della connessione sorgente
+19/01/2017 17:42:59: ..\server-support\supp-handler.c, 47: Errore generico
+19/01/2017 17:42:59: Messaggio sulla sessione 101 non valido (JADA_MSG_PING)
+19/01/2017 17:43:10: ..\server-support\supp-handler.c, 404: errore nella lettura della connessione sorgente
+19/01/2017 17:43:10: ..\server-support\supp-handler.c, 47: Errore generico
+19/01/2017 17:43:10: Messaggio sulla sessione 101 non valido (JADA_MSG_PING)
+19/01/2017 17:43:20: ..\server-support\supp-handler.c, 404: errore nella lettura della connessione sorgente
+19/01/2017 17:43:20: ..\server-support\supp-handler.c, 47: Errore generico
+19/01/2017 17:43:20: Messaggio sulla sessione 101 non valido (JADA_MSG_PING)
+19/01/2017 17:43:30: ..\server-support\supp-handler.c, 404: errore nella lettura della connessione sorgente
+19/01/2017 17:43:30: ..\server-support\supp-handler.c, 47: Errore generico
+19/01/2017 17:43:30: Messaggio sulla sessione 101 non valido (JADA_MSG_PING)
+19/01/2017 17:43:31: Connessione 329 chiusa.
+19/01/2017 17:43:31: Sessione 101 distrutta: entrambi i partner sono caduti.
+19/01/2017 17:43:31: Connessione 329 chiusa.
+19/01/2017 17:43:32: Processo terminato
+*************************************************
+19/01/2017 17:47:14: Processo server attivato su RALESCHUW1
+19/01/2017 17:47:16: Nuova connessione entrante ricevuta.
+19/01/2017 17:47:16: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:47:16: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:47:26: Connessione 330 chiusa.
+19/01/2017 17:47:26: Connessione 330 chiusa.
+19/01/2017 17:47:28: Nuova connessione entrante ricevuta.
+19/01/2017 17:47:28: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:47:28: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:47:30: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:47:35: Nuova connessione entrante ricevuta.
+19/01/2017 17:47:35: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 17:47:35: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:47:42: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 17:48:08: Connessione 332 chiusa.
+19/01/2017 17:48:08: Richiesta 40 messa in pending per caduta del manager.
+19/01/2017 17:48:08: Connessione 332 chiusa.
+19/01/2017 17:48:11: Connessione 331 chiusa.
+19/01/2017 17:48:11: Sessione 102 distrutta: entrambi i partner sono caduti.
+19/01/2017 17:48:11: Connessione 331 chiusa.
+19/01/2017 17:48:13: Processo terminato
+*************************************************
+19/01/2017 18:07:08: Processo server attivato su RALESCHUW1
+19/01/2017 18:07:10: Nuova connessione entrante ricevuta.
+19/01/2017 18:07:10: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:07:10: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:07:12: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:07:46: Nuova connessione entrante ricevuta.
+19/01/2017 18:07:46: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:07:46: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:07:49: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:08:06: Connessione 334 chiusa.
+19/01/2017 18:08:06: Sessione 103 distrutta: entrambi i partner sono caduti.
+19/01/2017 18:08:06: Connessione 334 chiusa.
+19/01/2017 18:08:08: Nuova connessione entrante ricevuta.
+19/01/2017 18:08:08: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:08:08: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:08:08: ASRV_SessionThread per la sessione 103 e' stato chiuso.
+19/01/2017 18:08:35: Connessione 335 chiusa.
+19/01/2017 18:08:35: Connessione 335 chiusa.
+19/01/2017 18:08:36: Connessione 333 chiusa.
+19/01/2017 18:08:36: Connessione 333 chiusa.
+19/01/2017 18:09:34: Processo terminato
+*************************************************
+19/01/2017 18:12:25: Processo server attivato su RALESCHUW1
+19/01/2017 18:12:27: Nuova connessione entrante ricevuta.
+19/01/2017 18:12:27: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:12:27: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:12:36: Connessione 336 chiusa.
+19/01/2017 18:12:36: Connessione 336 chiusa.
+19/01/2017 18:12:37: Processo terminato
+*************************************************
+19/01/2017 18:40:52: Processo server attivato su RALESCHUW1
+19/01/2017 18:41:10: Nuova connessione entrante ricevuta.
+19/01/2017 18:41:10: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:41:10: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:41:26: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:43:53: Nuova connessione entrante ricevuta.
+19/01/2017 18:43:53: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:43:53: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:43:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:43:58: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:45:52: Connessione 337 chiusa.
+19/01/2017 18:45:52: Richiesta 40 messa in loaded per caduta dell'agent.
+19/01/2017 18:45:52: Connessione 337 chiusa.
+19/01/2017 18:45:55: Connessione 338 chiusa.
+19/01/2017 18:45:55: Sessione 105 distrutta: entrambi i partner sono caduti.
+19/01/2017 18:45:55: Connessione 338 chiusa.
+19/01/2017 18:45:58: Processo terminato
+*************************************************
+19/01/2017 18:55:30: Processo server attivato su RALESCHUW1
+19/01/2017 18:55:33: Nuova connessione entrante ricevuta.
+19/01/2017 18:55:33: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:55:33: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:55:35: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:56:38: Nuova connessione entrante ricevuta.
+19/01/2017 18:56:38: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 18:56:38: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 18:56:39: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+19/01/2017 19:07:13: Processo server attivato su RALESCHUW1
+19/01/2017 19:07:15: Nuova connessione entrante ricevuta.
+19/01/2017 19:07:15: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 19:07:15: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 19:07:18: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 19:07:22: Nuova connessione entrante ricevuta.
+19/01/2017 19:07:22: Nuova connessione 0 aperta da 192.168.93.128
+19/01/2017 19:07:22: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 19:07:24: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+19/01/2017 19:08:08: Connessione 341 chiusa.
+19/01/2017 19:08:08: Richiesta 39 messa in loaded per caduta dell'agent.
+19/01/2017 19:08:08: Connessione 341 chiusa.
+19/01/2017 19:08:12: Connessione 342 chiusa.
+19/01/2017 19:08:12: Sessione 107 distrutta: entrambi i partner sono caduti.
+19/01/2017 19:08:12: Connessione 342 chiusa.
+19/01/2017 19:08:14: Processo terminato
+*************************************************
+22/01/2017 16:52:34: Processo server attivato su RALESCHUW1
+22/01/2017 16:52:42: Nuova connessione entrante ricevuta.
+22/01/2017 16:52:42: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 16:52:42: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 16:52:45: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 16:52:50: ..\server-common\database.c, 104: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (INSERT INTO SESSIONE (ID_CONNESSIONE_AGENT, ID_CONNESSIONE_MANAGER, STATO, ID_RICHIESTA) VALUES (1, 0, 'O', 0))
+22/01/2017 16:52:50: ..\server-common\database.c, 908: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (INSERT INTO SESSIONE (ID_CONNESSIONE_AGENT, ID_CONNESSIONE_MANAGER, STATO, ID_RICHIESTA) VALUES (1, 0, 'O', 0))
+22/01/2017 16:52:50: ..\server-common\objects.c, 288: Errore generico
+22/01/2017 16:52:50: ..\server-common\handler.c, 391: Errore nella creazione della sessione
+22/01/2017 16:52:50: ..\server-common\handler.c, 109: Errore generico
+22/01/2017 16:52:50: ..\server-common\thread.c, 212: Errore generico
+22/01/2017 16:58:24: Processo terminato
+*************************************************
+22/01/2017 16:59:10: Processo server attivato su RALESCHUW1
+22/01/2017 16:59:13: Nuova connessione entrante ricevuta.
+22/01/2017 16:59:13: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 16:59:13: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 16:59:15: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 16:59:22: ..\server-common\database.c, 104: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (INSERT INTO SESSIONE (ID_CONNESSIONE_AGENT, ID_CONNESSIONE_MANAGER, STATO, ID_RICHIESTA) VALUES (2, 0, 'O', 0))
+22/01/2017 16:59:22: ..\server-common\database.c, 908: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (INSERT INTO SESSIONE (ID_CONNESSIONE_AGENT, ID_CONNESSIONE_MANAGER, STATO, ID_RICHIESTA) VALUES (2, 0, 'O', 0))
+22/01/2017 16:59:22: ..\server-common\objects.c, 288: Errore generico
+22/01/2017 16:59:22: ..\server-common\handler.c, 398: Errore nella creazione della sessione
+22/01/2017 16:59:22: ..\server-common\handler.c, 109: Errore generico
+22/01/2017 16:59:22: ..\server-common\thread.c, 212: Errore generico
+22/01/2017 16:59:49: Connessione 2 chiusa.
+22/01/2017 16:59:49: Connessione 2 chiusa.
+22/01/2017 17:00:10: Nuova connessione entrante ricevuta.
+22/01/2017 17:00:10: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:00:10: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:00:12: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+*************************************************
+22/01/2017 17:08:13: Processo server attivato su RALESCHUW1
+22/01/2017 17:08:14: Nuova connessione entrante ricevuta.
+22/01/2017 17:08:14: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:08:14: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:08:16: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:08:26: ..\server-common\database.c, 104: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (INSERT INTO SESSIONE (ID_CONNESSIONE_AGENT, ID_CONNESSIONE_MANAGER, STATO, ID_RICHIESTA) VALUES (4, 0, 'O', 0))
+22/01/2017 17:08:26: ..\server-common\database.c, 908: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (INSERT INTO SESSIONE (ID_CONNESSIONE_AGENT, ID_CONNESSIONE_MANAGER, STATO, ID_RICHIESTA) VALUES (4, 0, 'O', 0))
+22/01/2017 17:08:26: ..\server-common\objects.c, 289: Errore generico
+*************************************************
+22/01/2017 17:24:29: Processo server attivato su RALESCHUW1
+22/01/2017 17:24:32: Nuova connessione entrante ricevuta.
+22/01/2017 17:24:32: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:24:32: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:24:34: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:25:23: Nuova connessione entrante ricevuta.
+22/01/2017 17:25:23: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:25:23: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:25:25: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:27:09: ..\server-common\database.c, 121: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_AGENT` FOREIGN KEY (`ID_CONNESSIONE_AGENT`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (UPDATE SESSIONE SET ID_CONNESSIONE_AGENT = 0 WHERE ID = 6)
+22/01/2017 17:27:09: ..\server-common\database.c, 969: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_AGENT` FOREIGN KEY (`ID_CONNESSIONE_AGENT`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (UPDATE SESSIONE SET ID_CONNESSIONE_AGENT = 0 WHERE ID = 6)
+22/01/2017 17:27:09: ..\server-common\database.c, 121: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (UPDATE SESSIONE SET ID_CONNESSIONE_MANAGER = 0 WHERE ID = 6)
+22/01/2017 17:27:09: ..\server-common\database.c, 990: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_MANAGER` FOREIGN KEY (`ID_CONNESSIONE_MANAGER`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (UPDATE SESSIONE SET ID_CONNESSIONE_MANAGER = 0 WHERE ID = 6)
+22/01/2017 17:27:11: ..\server-common\database.c, 121: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_AGENT` FOREIGN KEY (`ID_CONNESSIONE_AGENT`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (UPDATE SESSIONE SET ID_CONNESSIONE_AGENT = 0, ID_CONNESSIONE_MANAGER = 0, STATO = 'C', ID_RICHIESTA = 4 WHERE ID = 6)
+22/01/2017 17:27:11: ..\server-common\database.c, 932: Cannot add or update a child row: a foreign key constraint fails (`jada`.`sessione`, CONSTRAINT `FK_SESSIONE_AGENT` FOREIGN KEY (`ID_CONNESSIONE_AGENT`) REFERENCES `connessione` (`ID`) ON DELETE NO ACTION ON UPDATE NO ACTION) (UPDATE SESSIONE SET ID_CONNESSIONE_AGENT = 0, ID_CONNESSIONE_MANAGER = 0, STATO = 'C', ID_RICHIESTA = 4 WHERE ID = 6)
+22/01/2017 17:27:11: ..\server-support\supp-handler.c, 136: Errore generico
+22/01/2017 17:27:11: ..\server-support\supp-handler.c, 27: Errore generico
+22/01/2017 17:27:11: Messaggio sulla sessione 6 non valido (JADA_MSG_CLOSE_SUPPORT)
+*************************************************
+22/01/2017 17:31:32: Processo server attivato su RALESCHUW1
+22/01/2017 17:31:52: Nuova connessione entrante ricevuta.
+22/01/2017 17:31:52: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:31:52: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:31:54: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:32:06: Nuova connessione entrante ricevuta.
+22/01/2017 17:32:06: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:32:06: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:32:08: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:34:56: Connessione 7 chiusa.
+22/01/2017 17:34:56: Richiesta 3 messa in loaded per caduta dell'agent.
+22/01/2017 17:34:56: Connessione 7 chiusa.
+22/01/2017 17:34:59: Connessione 8 chiusa.
+22/01/2017 17:34:59: Sessione 9 distrutta: entrambi i partner sono caduti.
+22/01/2017 17:34:59: Connessione 8 chiusa.
+22/01/2017 17:35:02: ASRV_SessionThread per la sessione 9 e' stato chiuso.
+22/01/2017 17:35:03: Nuova connessione entrante ricevuta.
+22/01/2017 17:35:03: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:35:03: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:35:05: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:35:09: Nuova connessione entrante ricevuta.
+22/01/2017 17:35:09: Nuova connessione 0 aperta da 192.168.93.128
+22/01/2017 17:35:09: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:35:11: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+22/01/2017 17:35:38: Connessione 9 chiusa.
+22/01/2017 17:35:38: Richiesta 0 messa in loaded per caduta dell'agent.
+22/01/2017 17:35:38: Connessione 9 chiusa.
+22/01/2017 17:35:41: Connessione 10 chiusa.
+22/01/2017 17:35:41: ..\server-common\database.c, 404: manager non trovato nel DB
+22/01/2017 17:35:41: Sessione 10 distrutta: entrambi i partner sono caduti.
+22/01/2017 17:35:41: Connessione 10 chiusa.
+22/01/2017 17:35:45: ASRV_SessionThread per la sessione 10 e' stato chiuso.
+22/01/2017 17:35:54: Processo terminato
+*************************************************
+22/01/2017 18:54:03: Processo server attivato su RALESCHUW1
+22/01/2017 18:55:42: Processo terminato
+*************************************************
+22/01/2017 18:55:43: Processo server attivato su RALESCHUW1
+22/01/2017 18:55:45: Processo terminato
+*************************************************
+22/01/2017 18:55:48: Processo server attivato su RALESCHUW1
+22/01/2017 18:55:56: Processo terminato
+*************************************************
+22/01/2017 18:57:21: Processo server attivato su JADA
+*************************************************
+22/01/2017 18:59:59: Processo server attivato su JADA
+22/01/2017 19:08:15: Processo terminato
+*************************************************
+23/01/2017 14:57:15: Processo server attivato su JADA
+23/01/2017 14:57:16: Nuova connessione entrante ricevuta.
+23/01/2017 14:57:16: Nuova connessione 0 aperta da 192.168.93.128
+23/01/2017 14:57:16: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+23/01/2017 14:57:35: Nuova connessione entrante ricevuta.
+23/01/2017 14:57:35: Nuova connessione 0 aperta da 192.168.93.128
+23/01/2017 14:57:35: Nuova connessione aperta da 192.168.93.128 (host 192.168.93.128)
+23/01/2017 15:00:58: Connessione 12 chiusa.
+23/01/2017 15:00:58: Connessione 12 chiusa.
+23/01/2017 15:01:03: Connessione 11 chiusa.
+23/01/2017 15:01:03: Connessione 11 chiusa.
+23/01/2017 15:01:05: Processo terminato

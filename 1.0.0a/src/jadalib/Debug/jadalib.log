@@ -1,0 +1,48 @@
+﻿Compilazione avviata 21/01/2017 11:16:04.
+     1>Progetto "C:\jada\src\jadalib\jadalib.vcxproj" sul nodo 2 (destinazioni: build).
+     1>InitializeBuildStatus:
+         Aggiornamento timestamp di "Debug\JADA library.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\jada\include /IC:\jada\include\oss /ZI /nologo /W3 /WX- /Od /Oy- /D _USE_32BIT_TIME_T /D _CRT_SECURE_NO_WARNINGS /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D JADALIB_EXPORTS /D PSAPI_VERSION=1 /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt libhandler.c libthread.c
+         libthread.c
+         libhandler.c
+         Generazione del codice in corso...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\jada\src\jadalib\\Debug\jada.dll" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\jada\bin pthreadVC.lib wsock32.lib psapi.lib zlib.lib /MANIFEST /ManifestFile:"Debug\jada.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\jada\src\jadalib\Debug\jada.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\jada\src\jadalib\\Debug\jada.lib" /MACHINE:X86 /DLL Debug\common.obj
+         Debug\communication.obj
+         Debug\libconnection.obj
+         Debug\dll.obj
+         Debug\libdraw.obj
+         Debug\libevent.obj
+         Debug\libframe.obj
+         Debug\libhandler.obj
+         "Debug\libsess-ftp.obj"
+         "Debug\libsess-media.obj"
+         "Debug\libsess-vnc.obj"
+         Debug\libstream.obj
+         Debug\list.obj
+         Debug\message.obj
+         Debug\libprocess.obj
+         "Debug\libsess-support.obj"
+         Debug\libtcp.obj
+         Debug\libthread.obj
+     1>common.obj : warning LNK4075: '/EDITANDCONTINUE' ignorato a causa della specifica di '/INCREMENTAL:NO'
+            Creazione della libreria C:\jada\src\jadalib\\Debug\jada.lib e dell'oggetto C:\jada\src\jadalib\\Debug\jada.exp in corso...
+         jadalib.vcxproj -> C:\jada\src\jadalib\\Debug\jada.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\jada\src\jadalib\\Debug\jada.dll;#2" /manifest Debug\jada.dll.intermediate.manifest
+       PostBuildEvent:
+         copy Debug\jada.dll c:\jada\bin
+         copy Debug\jada.lib c:\jada\bin
+         
+         :VCEnd
+                 1 file copiati.
+                 1 file copiati.
+       FinalizeBuildStatus:
+         Eliminazione del file "Debug\JADA library.unsuccessfulbuild" in corso.
+         Aggiornamento timestamp di "Debug\JADA library.lastbuildstate".
+     1>Compilazione progetto "C:\jada\src\jadalib\jadalib.vcxproj" (destinazioni: build) completata.
+
+Compilazione completata.
+
+Tempo trascorso 00:00:02.10

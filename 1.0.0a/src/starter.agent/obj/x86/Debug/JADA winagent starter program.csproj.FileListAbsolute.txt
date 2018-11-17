@@ -1,0 +1,9 @@
+C:\jada-dev\1.0.0a\src\starter.agent\bin\Debug\winagent.template.exe.config
+C:\jada-dev\1.0.0a\src\starter.agent\bin\Debug\winagent.template.exe
+C:\jada-dev\1.0.0a\src\starter.agent\bin\Debug\winagent.template.pdb
+C:\jada-dev\1.0.0a\src\starter.agent\obj\x86\Debug\winagent.Properties.Resources.resources
+C:\jada-dev\1.0.0a\src\starter.agent\obj\x86\Debug\JADA winagent starter program.csproj.GenerateResource.Cache
+C:\jada-dev\1.0.0a\src\starter.agent\obj\x86\Debug\winagent.template.exe
+C:\jada-dev\1.0.0a\src\starter.agent\obj\x86\Debug\winagent.template.pdb
+C:\jada-dev\1.0.0a\src\starter.agent\obj\x86\Debug\JADA winagent starter program.csprojResolveAssemblyReference.cache
+C:\jada-dev\1.0.0a\src\starter.agent\obj\x86\Debug\winagent.FormStarter.resources

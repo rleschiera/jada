@@ -1,0 +1,5 @@
+C:\jada-dev\1.0.0a\src\make-manifest\bin\Debug\make-manifest.exe.config
+C:\jada-dev\1.0.0a\src\make-manifest\bin\Debug\make-manifest.exe
+C:\jada-dev\1.0.0a\src\make-manifest\bin\Debug\make-manifest.pdb
+C:\jada-dev\1.0.0a\src\make-manifest\obj\x86\Debug\make-manifest.exe
+C:\jada-dev\1.0.0a\src\make-manifest\obj\x86\Debug\make-manifest.pdb

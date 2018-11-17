@@ -1,0 +1,4 @@
+[server]
+ip=RALESCHUW1
+port=10000
+

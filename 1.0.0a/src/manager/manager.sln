@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JADA manager program", "manager.vcxproj", "{84A37A0B-01A2-4FE3-A5DA-2D714540E5F2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BE8A9C0D-A594-439F-969D-846C92FEF53D} = {BE8A9C0D-A594-439F-969D-846C92FEF53D}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JADA library", "..\jadalib\jadalib.vcxproj", "{BE8A9C0D-A594-439F-969D-846C92FEF53D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84A37A0B-01A2-4FE3-A5DA-2D714540E5F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{84A37A0B-01A2-4FE3-A5DA-2D714540E5F2}.Debug|Win32.Build.0 = Debug|Win32
+		{84A37A0B-01A2-4FE3-A5DA-2D714540E5F2}.Release|Win32.ActiveCfg = Release|Win32
+		{84A37A0B-01A2-4FE3-A5DA-2D714540E5F2}.Release|Win32.Build.0 = Release|Win32
+		{BE8A9C0D-A594-439F-969D-846C92FEF53D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE8A9C0D-A594-439F-969D-846C92FEF53D}.Debug|Win32.Build.0 = Debug|Win32
+		{BE8A9C0D-A594-439F-969D-846C92FEF53D}.Release|Win32.ActiveCfg = Release|Win32
+		{BE8A9C0D-A594-439F-969D-846C92FEF53D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

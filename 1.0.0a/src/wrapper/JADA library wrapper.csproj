@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{06B003C8-4FC2-4F39-ACEE-A859D4351A7F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>JADA</RootNamespace>
+    <AssemblyName>jadawrapper</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="connection.cs" />
+    <Compile Include="draw.cs" />
+    <Compile Include="event.cs" />
+    <Compile Include="common.cs" />
+    <Compile Include="FifoStream.cs" />
+    <Compile Include="FormProxyLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProxyLogin.Designer.cs">
+      <DependentUpon>FormProxyLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frame.cs" />
+    <Compile Include="FormShowVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormShowVersion.Designer.cs">
+      <DependentUpon>FormShowVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gui.cs" />
+    <Compile Include="sess-support.cs" />
+    <Compile Include="sess-vnc.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="stream.cs" />
+    <Compile Include="WaveIn.cs" />
+    <Compile Include="WaveNative.cs" />
+    <Compile Include="WaveOut.cs" />
+    <Compile Include="WaveStream.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FormProxyLogin.resx">
+      <DependentUpon>FormProxyLogin.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormShowVersion.resx">
+      <DependentUpon>FormShowVersion.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>copy $(TargetPath) C:\jada\bin</PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
